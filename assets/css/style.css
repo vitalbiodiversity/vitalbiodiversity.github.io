@@ -84,14 +84,14 @@ body {
 
 /* Larger part of title */
 .site-title .title-large {
-  font-size: 1.5rem;   /* adjust bigger if needed */
+  font-size: 4rem;   /* adjust bigger if needed */
   font-weight: 700;
   margin-right: 0.25rem;
 }
 
 /* Smaller part of title */
 .site-title .title-small {
-  font-size: 1rem;     /* adjust smaller if needed */
+  font-size: 3rem;     /* adjust smaller if needed */
   font-weight: 500;
   opacity: 0.85;       /* optional subtle difference */
 }
