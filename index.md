@@ -87,13 +87,13 @@ Ecosystem knowledge is always partial, shaped by incomplete data, human perspect
 
 ## Technologies
 
-The design may be conceptual or a prototype, built with existing technologies or imagining new ones. Too often, environmental tools are driven by new technology trends, rather than ecological or socio-political needs. This brief instead requires that <span style="color:#FAAE17;">technological features emerge from the design’s ecological intentions</span>  and not the other way around.
+The design may be conceptual or a prototype, built with existing technologies or imagining new ones. Too often, environmental tools are driven by new technology trends, rather than ecological or socio-political needs. This brief instead requires that technological features emerge from the design’s <span style="color:#FAAE17;">ecological intentions</span>  and not the other way around.
 
 <br>
 
 ## Socio-politics
 
-All designs have socio-political effects. The design must therefore critically consider who and what it serves, and what it thereby risks ignoring. It must provide transparency about <span style="color:#FAAE17;">how decisions and data shape power</span> across humans and ecosystems. This includes asking how the design contributes to creating regenerative multispecies futures.
+All designs have socio-political effects. The design must therefore critically consider who and what it serves, and what it thereby risks ignoring. It must provide transparency about how decisions and data shape <span style="color:#FAAE17;">power</span> across humans and ecosystems. This includes asking how the design contributes to creating regenerative multispecies futures.
 
 <br>
 <br>
