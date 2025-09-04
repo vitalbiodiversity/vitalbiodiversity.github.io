@@ -12,6 +12,14 @@ navigation:
   - title: About
     url: /about.html
 
+defaults:
+  - scope:
+      path: ""
+      type: page
+    values:
+      sidebar:
+        nav: "main"
+
 
 # Optional: remove theme credit in footer
 minimal:
