@@ -1,6 +1,6 @@
 ---
 title: Design Brief
-layout: two-column
+layout: default
 ---
 
 # Design Brief
