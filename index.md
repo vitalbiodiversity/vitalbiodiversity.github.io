@@ -3,9 +3,8 @@ title: a design brief
 layout: default
 ---
 
-# a design brief
+# <span style="color:#FAAE17;">a design brief</span>
 
-<br>
 <br>
 <br>
 
@@ -21,27 +20,23 @@ What does it mean to innovate when creating technologies for ecological purposes
 
 Pursuing real innovation demands more creative proposals. Avant-garde ideas that are less technology-driven and much more fundamentally engaged with the living planet. It is only in this way that important new ecosystem data can be used to respond to ecological crises.
 
-<br>
+The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), signed by 196 countries, is <span style="color:#71BE44;">'a world of living in harmony with nature by 2050'.</span> ‘a world of living in harmony with nature by 2050.’ This calls for technologies that do not just deliver ecosystem data but also embed this global vision into their design. This brief calls for designers, developers, and other future-makers to propose biodiversity data systems that are as alive as the ecosystems they are connected to.
 
-The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), signed by 196 countries, is ‘a world of living in harmony with nature’ by 2050.’ This calls for technologies that do not just deliver ecosystem data but also embed this global vision into their design. This brief calls for designers, developers, and other future-makers to propose biodiversity data systems that are as alive as the ecosystems they are connected to.
-
-<br>
 <br>
 <br>
 
 # DESIGN OBJECTIVE
 
-Design a tool or platform that integrates ecosystem data and is grounded in the following three principles: 
+Design a tool or platform that integrates ecosystem data and is grounded in the following <span style="color:#00ADEE;">three principles:</span>  
 
 <br>
 
-It must be response-able (capable of engaging with its context rather than merely representing it), organic (inspired by ecosystem processes rather than technical features), and relational (structured around interdependence rather than data fragmentation). 
+It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation). 
 
 <br>
  
 The design may focus on environmental processes at any scale deemed relevant in response to ecological crises – from the lived experiences of individual organisms within an ecosystem to the broader dynamics of planetary systems. Your goal is to spark technological innovation rooted in ecological vitality.
 
-<br>
 <br>
 <br>
 
@@ -55,7 +50,6 @@ The design may focus on environmental processes at any scale deemed relevant in 
   
 - Specialists who collect and work with data including monitoring experts, citizen scientists, ecologists, local communities, and other ecosystem data users.
 
-<br>
 <br>
 <br>
 
@@ -87,7 +81,6 @@ The strongest business cases will be those that work within, rather than attempt
 
 <br>
 <br>
-<br>
 
 # DESIGN CONSTRAINTS
 
@@ -111,7 +104,6 @@ The design may be conceptual or a prototype, built with existing technologies or
 
 All designs have socio-political effects. The design must therefore critically consider who and what it serves, and what it thereby risks ignoring. It must provide transparency about how decisions and data shape power across humans and ecosystems. This includes asking how the design contributes to creating regenerative multispecies futures.
 
-<br>
 <br>
 <br>
 
