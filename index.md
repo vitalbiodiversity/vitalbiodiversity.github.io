@@ -1,5 +1,6 @@
 ---
 title: Design Brief
+layout: page
 weight: 1
 ---
 
