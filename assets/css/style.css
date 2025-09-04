@@ -82,6 +82,13 @@ body {
   color: #fff;
 }
 
+.site-title .title-large,
+.site-title .title-small {
+  display: inline-block;    /* ensures consistent spacing */
+  line-height: 1.1;         /* reduces vertical space, tweak as needed */
+  margin: 0;                /* remove default margin */
+}
+
 /* Larger part of title */
 .site-title .title-large {
   font-size: 3.6rem;   /* adjust bigger if needed */
