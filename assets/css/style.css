@@ -1,12 +1,23 @@
-/* Layout */
-.two-column-layout {
-  display: flex;
-  min-height: 100vh;
+/* General page reset */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.6;
 }
 
-/* Sidebar */
+/* Wrapper keeps everything centered */
+.site-wrapper {
+  display: flex;
+  max-width: 1200px;   /* max page width */
+  margin: 0 auto;      /* center horizontally */
+  min-height: 100vh;
+  box-sizing: border-box;
+  background: #fff;
+}
+
+/* Sidebar styling */
 .sidebar {
   width: 260px;
   background-color: #1C5B46;
@@ -16,6 +27,8 @@
   position: sticky;
   top: 0;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .sidebar .site-title a {
@@ -55,11 +68,12 @@
   color: #d1f0f0;
 }
 
-/* Main content */
+/* Main content area */
 .main-content {
   flex-grow: 1;
   padding: 3rem 2rem;
   background-color: #fefefe;
+  overflow-y: auto; /* independent scroll */
   max-width: 900px;
   margin: 0 auto;
 }
@@ -71,7 +85,7 @@
   margin-bottom: 1rem;
 }
 
-/* Links */
+/* Links inside content */
 .main-content a {
   color: #2d7a7b;
   text-decoration: underline;
@@ -79,8 +93,9 @@
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
-  .two-column-layout {
+  .site-wrapper {
     flex-direction: column;
+    max-width: 100%;
   }
 
   .sidebar {
@@ -92,5 +107,7 @@
 
   .main-content {
     padding: 2rem 1rem;
+    margin: 0;
+    max-width: 100%;
   }
 }
