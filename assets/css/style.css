@@ -1,9 +1,12 @@
+/* Layout */
 .two-column-layout {
   display: flex;
   flex-direction: row;
   min-height: 100vh;
+  font-family: system-ui, sans-serif;
 }
 
+/* Sidebar */
 .sidebar {
   width: 250px;
   background-color: #2d7a7b;
@@ -19,6 +22,13 @@
   color: white;
   text-decoration: none;
   font-size: 1.5rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.sidebar .logo {
+  max-width: 100%;
+  margin-bottom: 2rem;
 }
 
 .sidebar-nav ul {
@@ -41,6 +51,7 @@
   text-decoration: underline;
 }
 
+/* Main content */
 .main-content {
   flex-grow: 1;
   padding: 2rem;
