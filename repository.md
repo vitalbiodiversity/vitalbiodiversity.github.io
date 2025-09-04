@@ -1,6 +1,6 @@
 ---
 title: Repository
-layout: two-column
+layout: default
 ---
 
 # Repository
