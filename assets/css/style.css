@@ -85,7 +85,7 @@ body {
 .site-title .title-large,
 .site-title .title-small {
   display: inline-block;    /* ensures consistent spacing */
-  line-height: 1.1;         /* reduces vertical space, tweak as needed */
+  line-height: 1.3;         /* reduces vertical space, tweak as needed */
   margin: 0;                /* remove default margin */
 }
 
