@@ -1,7 +1,6 @@
 ---
 title: Companion Paper
 layout: two-column
-weight: 2
 ---
 
 # Companion Paper
