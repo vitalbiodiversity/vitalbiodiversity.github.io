@@ -81,19 +81,19 @@ Developing a business case for the implementation of data tools can be important
 
 ## Ecologies
 
-Ecosystem knowledge is always partial, shaped by incomplete data, human perspectives, and evolving scientific understandings. Designs must stay open to diverse ways of knowing, yet grounded in ecological integrity. Speculation, intuition, and creative approaches are integral, but should not justify ecological misrepresentation.
+Ecosystem knowledge is always partial, shaped by incomplete data, human perspectives, and evolving scientific understandings. Designs must stay open to <span style="color:#FAAE17;">diverse ways of knowing</span>, yet grounded in ecological integrity. Speculation, intuition, and creative approaches are integral, but should not justify ecological misrepresentation.
 
 <br>
 
 ## Technologies
 
-The design may be conceptual or a prototype, built with existing technologies or imagining new ones. Too often, environmental tools are driven by new technology trends, rather than ecological or socio-political needs. This brief instead requires that technological features emerge from the design’s ecological intentions and not the other way around.
+The design may be conceptual or a prototype, built with existing technologies or imagining new ones. Too often, environmental tools are driven by new technology trends, rather than ecological or socio-political needs. This brief instead requires that <span style="color:#FAAE17;">technological features emerge from the design’s ecological intentions</span>  and not the other way around.
 
 <br>
 
 ## Socio-politics
 
-All designs have socio-political effects. The design must therefore critically consider who and what it serves, and what it thereby risks ignoring. It must provide transparency about how decisions and data shape power across humans and ecosystems. This includes asking how the design contributes to creating regenerative multispecies futures.
+All designs have socio-political effects. The design must therefore critically consider who and what it serves, and what it thereby risks ignoring. It must provide transparency about <span style="color:#FAAE17;">how decisions and data shape power</span> across humans and ecosystems. This includes asking how the design contributes to creating regenerative multispecies futures.
 
 <br>
 <br>
