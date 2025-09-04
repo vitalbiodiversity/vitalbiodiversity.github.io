@@ -1,7 +1,6 @@
 ---
 title: About
 layout: two-column
-weight: 4
 ---
 
 # About
