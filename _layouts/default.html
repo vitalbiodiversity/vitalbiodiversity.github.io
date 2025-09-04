@@ -5,8 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>{{ page.title }} | {{ site.title }}</title>
 
-  <!-- cache-bust by changing ?v=1 -> ?v=2 on future edits -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=1' | relative_url }}">
+  <!-- Google Fonts: Public Sans + JetBrains Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Your CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=3' | relative_url }}">
 </head>
 <body>
   <div class="page-outer">
@@ -28,7 +31,6 @@
         </nav>
       </aside>
 
-      <!-- main-content is the independently scrollable column -->
       <main class="main-content" role="main">
         {{ content }}
       </main>
