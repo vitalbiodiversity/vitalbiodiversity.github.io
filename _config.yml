@@ -1,0 +1,15 @@
+title: Vital Biodiversity
+theme: minimal
+
+# Sidebar navigation
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      sidebar: true
+
+# Optional: remove theme credit in footer
+minimal:
+  footer: ""
