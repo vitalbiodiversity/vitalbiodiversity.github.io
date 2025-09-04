@@ -17,6 +17,7 @@ What does it mean to innovate when creating technologies for ecological purposes
 <br>
 <span style="color:#00ADEE;">This is not innovation. These are mere technical solutions that try to find planetary problems.</span> 
 <br>
+<br>
 
 Pursuing real innovation demands more creative proposals. Avant-garde ideas that are less technology-driven and much more fundamentally engaged with the living planet. It is only in this way that important new ecosystem data can be used to respond to ecological crises.
 
