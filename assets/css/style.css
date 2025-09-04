@@ -93,7 +93,7 @@ body {
 .site-title .title-small {
   font-size: 1.7rem;     /* adjust smaller if needed */
   font-weight: 500;
-  opacity: 0.85;       /* optional subtle difference */
+  /*opacity: 0.85;       /* optional subtle difference */
 }
 
 
