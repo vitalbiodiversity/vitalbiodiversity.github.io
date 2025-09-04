@@ -1,6 +1,6 @@
 ---
 title: About
-layout: two-column
+layout: default
 ---
 
 # About
