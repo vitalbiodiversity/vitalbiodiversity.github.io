@@ -1,6 +1,6 @@
 ---
 title: Companion Paper
-layout: two-column
+layout: default
 ---
 
 # Companion Paper
