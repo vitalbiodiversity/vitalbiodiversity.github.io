@@ -1,7 +1,6 @@
 ---
 title: Design Brief
 layout: two-column
-weight: 1
 ---
 
 # Design Brief
