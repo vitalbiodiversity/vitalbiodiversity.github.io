@@ -1,5 +1,6 @@
 ---
 title: Repository
+layout: page
 weight: 3
 ---
 
