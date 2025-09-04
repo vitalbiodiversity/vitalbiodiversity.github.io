@@ -92,7 +92,7 @@ body {
 
 /* Larger part of title */
 .site-title .title-large {
-  font-size: 3.8rem;   /* adjust bigger if needed */
+  font-size: 4rem;   /* adjust bigger if needed */
   font-weight: 700;
   margin-right: 0.25rem;
 }
