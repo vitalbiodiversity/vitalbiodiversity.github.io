@@ -87,7 +87,7 @@ body {
 .site-title .title-small {
   display: block;         /* stack blocks vertically */
   margin: 0;
-  line-height: 1;         /* removes extra spacing caused by font height */
+  line-height: 1.2;         /* removes extra spacing caused by font height */
 }
 
 /* Larger part of title */
