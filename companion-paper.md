@@ -1,5 +1,6 @@
 ---
 title: Companion Paper
+layout: page
 weight: 2
 ---
 
