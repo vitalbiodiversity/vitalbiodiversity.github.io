@@ -73,8 +73,8 @@ body {
   margin: 0;
   font-weight: 600;
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
+  flex-direction: column; /* stack words vertically */
+  line-height: 1;         /* ensure consistent vertical spacing */
 }
 
 .site-title a {
@@ -82,11 +82,12 @@ body {
   color: #fff;
 }
 
+/* Wrap each part in span */
 .site-title .title-large,
 .site-title .title-small {
-  display: inline-block;    /* ensures consistent spacing */
-  line-height: 1.3;         /* reduces vertical space, tweak as needed */
-  margin: 0;                /* remove default margin */
+  display: block;         /* stack blocks vertically */
+  margin: 0;
+  line-height: 1;         /* removes extra spacing caused by font height */
 }
 
 /* Larger part of title */
