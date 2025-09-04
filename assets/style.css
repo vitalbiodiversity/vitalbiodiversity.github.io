@@ -46,6 +46,6 @@ main {
 /* Push the menu down below the header */
 nav {
   background-color: #f5f5f5;
-  padding: 1rem;
-  margin-top: 1rem; /* add some space below the header */
+  padding: 2rem;
+  margin-top: 2rem; /* add some space below the header */
 }
