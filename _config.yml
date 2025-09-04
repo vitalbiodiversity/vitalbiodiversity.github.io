@@ -1,14 +1,17 @@
 title: Vital Biodiversity
 theme: jekyll-theme-minimal
 
-# Sidebar navigation
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      sidebar: true
+# Navigation (sidebar)
+navigation:
+  - title: Design Brief
+    url: /index.html
+  - title: Companion Paper
+    url: /companion-paper.html
+  - title: Repository
+    url: /repository.html
+  - title: About
+    url: /about.html
+
 
 # Optional: remove theme credit in footer
 minimal:
