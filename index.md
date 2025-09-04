@@ -1,6 +1,6 @@
 ---
 title: Design Brief
-layout: page
+layout: two-column
 weight: 1
 ---
 
