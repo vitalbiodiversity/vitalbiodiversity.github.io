@@ -29,6 +29,8 @@ The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), s
 
 Design a tool or platform that integrates ecosystem data and is grounded in the following <span style="color:#00ADEE;">three principles:</span>  
 
+<br>
+
 It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation). 
  
 The design may focus on environmental processes at any scale deemed relevant in response to ecological crises – from the lived experiences of individual organisms within an ecosystem to the broader dynamics of planetary systems. Your goal is to spark technological innovation rooted in ecological vitality.
