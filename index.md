@@ -57,21 +57,21 @@ The design may focus on environmental processes at any scale deemed relevant in 
 
 Aesthetics encompass everything that creates meaning for living beings. including sensory perceptions, affective dimensions, hierarchies, and cultural relations. This shapes all experiential aspects of innovation.  Data tools must abandon their fixation on computational expressions and attend to the full range of aesthetics that ecosystems evoke.
  
-To revolutionize design in this domain, designers must identify important qualities of aliveness and relations to broader ecosystem experiences, and let these guide the system’s visual, structural, and interactive elements.
+To revolutionize design in this domain, designers must identify important qualities of <span style="color:#00ADEE;">aliveness</span> and relations to broader ecosystem experiences, and let these guide the system’s visual, structural, and interactive elements.
 
 <br>
 ## 2. Foreground depth
 
 Avoid reducing ecosystems to flat indicators that merely deliver observations. The design must propose features for collaborative sense-making that reflect the underlying processes, trade-offs, relations, or tensions of the ecosystem processes in focus.
 
-Foregrounding depth means deliberately connecting biodiversity data to complex ecological and societal challenges to enable further discourse and decision-making. Data systems thereby move from static data repositories to tools that stimulate reflection and action.
+<span style="color:#00ADEE;">Foregrounding depth</span> means deliberately connecting biodiversity data to complex ecological and societal challenges to enable further discourse and decision-making. Data systems thereby move from static data repositories to tools that stimulate reflection and action.
 
 <br>
 ## 3. Align economic value with ecological dynamics
 
 Developing a business case for the implementation of data tools can be important to generate impact across corporate stakeholders. But ecosystems themselves operate on more diverse, adaptive, and long-term dynamics that no business model can fully contain. 
 
-The strongest business cases will be those that work within, rather than attempt to override, resilient ecological understandings of value and growth. While existing tools push for further commodification of biodiversity, more ecologically aligned proposals should make value propositions that are already inherent in ecosystems. 
+<span style="color:#00ADEE;">The strongest business cases</span> will be those that work within, rather than attempt to override, resilient ecological understandings of value and growth. While existing tools push for further commodification of biodiversity, more ecologically aligned proposals should make value propositions that are already inherent in ecosystems. 
 
 <br>
 <br>
@@ -100,37 +100,5 @@ All designs have socio-political effects. The design must therefore critically c
 
 # Prompts
 
-
-WHAT WOULD IT MEAN FOR A DATASET TO BREATHE? HOW DO OTHER LIFEWORLDS INSPIRE MONITORING? WHAT IF GROUND TRUTHING BIODIVERSITY REQUIRED BUILDING CONNECTIONS WITH LOCAL ECOSYSTEMS? WHAT TOOL CAN HELP THE MOST BIZARRE INDICATOR SPECIES EXPRESS THEIR BIODIVERSITY KNOWLEDGE? HOW CAN A NEW DASHBOARD INSPIRE HUMANS TO UNDERSTAND ANOTHER SPECIES IN NEW WAYS? WHAT COULD A VITAL BIODIVERSITY CREDIT SYSTEM LOOK LIKE? WHAT IF ECOSYSTEM ENTITIES COULD DETERMINE HOW THEIR DATA IS USED? HOW CAN MORE VITAL DATA TOOLS HELP CORPORATIONS DRASTICALLY INCREASE THEIR NATURE POSITIVE AMBITIONS? CAN DATA REPORTING PLATFORMS ALSO CENTER BIODIVERSITY RELATIONS THROUGH GRIEF, AWE, OR URGENCY? WHAT IF ENVIRONMENTAL MONITORING TOOLS CAN FORGET, COMPOST, OR EVOLVE? HOW CAN A DATA PLATFORM BRING TWO NON-HUMAN SPECIES IN CONVERSATION WITH EACH OTHER TO RESPOND TO ECOSYSTEM THREATS? WHAT IF DIGITAL TWINS WERE NOT MIRRORS OF ENVIRONMENTS BUT COMPANIONS THAT EVOLVE WITH ECOSYSTEMS? CAN DATA PLATFORMS SURFACE WHAT IS MISSING, NOT ONLY WHAT IS MEASURED? HOW COULD A MORE VITAL METRIC BECOME PART OF CORPORATE SUSTAINABILITY REPORTING? HOW CAN A QUANTITATIVE DATA VISUALIZATION BE REDESIGNED ACCORDING TO VITAL DATA PRINCIPLES? WHAT IF NON-HUMAN SPECIES COULD INITIATE ALERTS IN A DASHBOARD SYSTEM? CAN BIODIVERSITY DATA TOOLS PRACTICE REFUSAL AS RESPONSE TO DATA QUERIES?
-
-
-
-
-
-
-
-
-- <span style="color:#00ADEE;">Colored text example (blue)</span>
-- <span style="color:#71BE44;">Another highlight (green)</span>
-- <span style="color:#FAAE17;">And one more (orange)</span>
-
-
-This is a **placeholder overview** of the design brief. Replace this text with your actual project description.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur **important point** volutpat ligula, non feugiat elit.
-
-- Objective 1: Lorem ipsum dolor sit amet.
-- Objective 2: Duis aute irure dolor in reprehenderit.
-- Objective 3: Excepteur sint occaecat cupidatat non proident.
-
-1. What is the main challenge?
-2. How can we approach it creatively?
-3. What are the expected outcomes?
-
-Some lines may need **emphasis** or a different color:
-
-- **Bold emphasis:** Highlight important points.
-- <span style="color:#00ADEE;">Colored text example (blue)</span>
-- <span style="color:#71BE44;">Another highlight (green)</span>
-- <span style="color:#FAAE17;">And one more (orange)</span>
-- Another **important insight** goes here.
+<span style="color:#00ADEE;">WHAT WOULD IT MEAN FOR A DATASET TO BREATHE? </span> <span style="color:#71BE44;">HOW DO OTHER LIFEWORLDS INSPIRE MONITORING?</span> <span style="color:#FAAE17;">WHAT IF GROUND TRUTHING BIODIVERSITY REQUIRED BUILDING CONNECTIONS WITH LOCAL ECOSYSTEMS?</span> <span style="color:#00ADEE;">WHAT TOOL CAN HELP THE MOST BIZARRE INDICATOR SPECIES EXPRESS THEIR BIODIVERSITY KNOWLEDGE?</span> <span style="color:#71BE44;">HOW CAN A NEW DASHBOARD INSPIRE HUMANS TO UNDERSTAND ANOTHER SPECIES IN NEW WAYS?</span> <span style="color:#FAAE17;">WHAT COULD A VITAL BIODIVERSITY CREDIT SYSTEM LOOK LIKE?</span> <span style="color:#00ADEE;">WHAT IF ECOSYSTEM ENTITIES COULD DETERMINE HOW THEIR DATA IS USED?</span> <span style="color:#71BE44;">HOW CAN MORE VITAL DATA TOOLS HELP CORPORATIONS DRASTICALLY INCREASE THEIR NATURE POSITIVE AMBITIONS?</span> <span style="color:#FAAE17;">CAN DATA REPORTING PLATFORMS ALSO CENTER BIODIVERSITY RELATIONS THROUGH GRIEF, AWE, OR URGENCY?</span> <span style="color:#00ADEE;">WHAT IF ENVIRONMENTAL MONITORING TOOLS CAN FORGET, COMPOST, OR EVOLVE?</span> <span style="color:#71BE44;">HOW CAN A DATA PLATFORM BRING TWO NON-HUMAN SPECIES IN CONVERSATION WITH EACH OTHER TO RESPOND TO ECOSYSTEM THREATS?</span> <span style="color:#FAAE17;">WHAT IF DIGITAL TWINS WERE NOT MIRRORS OF ENVIRONMENTS BUT COMPANIONS THAT EVOLVE WITH ECOSYSTEMS?</span> <span style="color:#00ADEE;">CAN DATA PLATFORMS SURFACE WHAT IS MISSING, NOT ONLY WHAT IS MEASURED?</span> <span style="color:#71BE44;">HOW COULD A MORE VITAL METRIC BECOME PART OF CORPORATE SUSTAINABILITY REPORTING?</span> <span style="color:#FAAE17;">HOW CAN A QUANTITATIVE DATA VISUALIZATION BE REDESIGNED ACCORDING TO VITAL DATA PRINCIPLES?</span> <span style="color:#00ADEE;">WHAT IF NON-HUMAN SPECIES COULD INITIATE ALERTS IN A DASHBOARD SYSTEM?</span> <span style="color:#71BE44;">CAN BIODIVERSITY DATA TOOLS PRACTICE REFUSAL AS RESPONSE TO DATA QUERIES?
+</span> 
