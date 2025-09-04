@@ -126,6 +126,18 @@ body {
 }
 .sidebar-nav a:hover { color: #d1f0f0; text-decoration: underline; }
 
+/* Custom colors for each menu item */
+.sidebar-nav li:nth-child(1) a { color: #ffffff; }       /* a design brief */
+.sidebar-nav li:nth-child(2) a { color: #00ADEE; }       /* companion paper */
+.sidebar-nav li:nth-child(3) a { color: #71BE44; }       /* repository */
+.sidebar-nav li:nth-child(4) a { color: #FAAE17; }       /* about */
+
+/* Hover colors (lighter blend toward white) */
+.sidebar-nav li:nth-child(1) a:hover { color: #ffffff; } /* stays white */
+.sidebar-nav li:nth-child(2) a:hover { color: #66C9F3; }
+.sidebar-nav li:nth-child(3) a:hover { color: #94D977; }
+.sidebar-nav li:nth-child(4) a:hover { color: #FDC259; }
+
 /* Main content */
 .main-content{
   flex: 1 1 auto;
