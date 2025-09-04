@@ -3,37 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-
-<div class="two-column-layout">
-
-  <aside class="sidebar">
-    <h1 class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </h1>
-
-    {% if site.logo %}
-      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo" class="logo">
-    {% endif %}
-
-    <nav class="sidebar-nav">
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Design Brief</a></li>
-        <li><a href="{{ '/companion-paper' | relative_url }}">Companion Paper</a></li>
-        <li><a href="{{ '/repository' | relative_url }}">Repository</a></li>
-        <li><a href="{{ '/about' | relative_url }}">About</a></li>
-      </ul>
-    </nav>
-  </aside>
-
-  <main class="main-content">
-    {{ content }}
-  </main>
-
-</div>
-
+  <div class="site-wrapper">
+    <div class="sidebar">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo">
+      {% endif %}
+      <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav class="sidebar-nav">
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Design Brief</a></li>
+          <li><a href="{{ '/companion-paper' | relative_url }}">Companion Paper</a></li>
+          <li><a href="{{ '/repository' | relative_url }}">Repository</a></li>
+          <li><a href="{{ '/about' | relative_url }}">About</a></li>
+        </ul>
+      </nav>
+    </div>
+    <main class="main-content">
+      {{ content }}
+    </main>
+  </div>
 </body>
 </html>
