@@ -1,7 +1,6 @@
 ---
 title: Repository
 layout: two-column
-weight: 3
 ---
 
 # Repository
