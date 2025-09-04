@@ -69,6 +69,34 @@ body {
   text-decoration: none;
 }
 
+.site-title {
+  margin: 0;
+  font-weight: 600;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.site-title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Larger part of title */
+.site-title .title-large {
+  font-size: 1.5rem;   /* adjust bigger if needed */
+  font-weight: 700;
+  margin-right: 0.25rem;
+}
+
+/* Smaller part of title */
+.site-title .title-small {
+  font-size: 1rem;     /* adjust smaller if needed */
+  font-weight: 500;
+  opacity: 0.85;       /* optional subtle difference */
+}
+
+
 /* nav */
 .sidebar-nav {
   margin-top: 1rem;
