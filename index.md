@@ -39,32 +39,34 @@ The design may focus on environmental processes at any scale deemed relevant in 
 <br>
 
 # KEY STAKEHOLDERS
-- Living ecosystems, humans, and multi-species entities who express data and need their processes to be engaged with in more meaningful ways.
+- <span style="color:#71BE44;">Living ecosystems</span>, humans, and multi-species entities who express data and need their processes to be engaged with in more meaningful ways.
 <br>
   
-- Corporations committed to move beyond impact metrics towards aligning their operations with ecological regeneration and the KMGBF vision.
+- <span style="color:#71BE44;">Corporations</span> committed to move beyond impact metrics towards aligning their operations with ecological regeneration and the KMGBF vision.
 <br>
   
-- Specialists who collect and work with data including monitoring experts, citizen scientists, ecologists, local communities, and other ecosystem data users.
+- <span style="color:#71BE44;">Specialists</span> who collect and work with data including monitoring experts, citizen scientists, ecologists, local communities, and other ecosystem data users.
 
 <br>
 <br>
 
 # DESIGN CRITERIA
 
-
+<br>
 ## 1. Center vital aesthetics
 
 Aesthetics encompass everything that creates meaning for living beings. including sensory perceptions, affective dimensions, hierarchies, and cultural relations. This shapes all experiential aspects of innovation.  Data tools must abandon their fixation on computational expressions and attend to the full range of aesthetics that ecosystems evoke.
  
 To revolutionize design in this domain, designers must identify important qualities of aliveness and relations to broader ecosystem experiences, and let these guide the system’s visual, structural, and interactive elements.
 
+<br>
 ## 2. Foreground depth
 
 Avoid reducing ecosystems to flat indicators that merely deliver observations. The design must propose features for collaborative sense-making that reflect the underlying processes, trade-offs, relations, or tensions of the ecosystem processes in focus.
 
 Foregrounding depth means deliberately connecting biodiversity data to complex ecological and societal challenges to enable further discourse and decision-making. Data systems thereby move from static data repositories to tools that stimulate reflection and action.
 
+<br>
 ## 3. Align economic value with ecological dynamics
 
 Developing a business case for the implementation of data tools can be important to generate impact across corporate stakeholders. But ecosystems themselves operate on more diverse, adaptive, and long-term dynamics that no business model can fully contain. 
