@@ -1,21 +1,26 @@
+/* Two-column layout */
 .site-wrapper {
   display: flex;
   flex-direction: row;
   min-height: 100vh;
 }
 
-/* Sidebar styles */
+/* Sidebar */
 .sidebar {
   width: 250px;
   background-color: #2d7a7b;
   color: white;
   padding: 2rem 1rem;
   flex-shrink: 0;
+  position: sticky;
+  top: 0;
+  height: 100vh;
 }
 
 .sidebar .site-title a {
   color: white;
   text-decoration: none;
+  font-size: 1.5rem;
 }
 
 .sidebar-nav ul {
@@ -38,17 +43,10 @@
   text-decoration: underline;
 }
 
-/* Main content styles */
+/* Main content */
 .main-content {
   flex-grow: 1;
   padding: 2rem;
   background-color: #f4f4f4;
   overflow-y: auto;
-}
-
-/* Optional: make sidebar fixed on scroll */
-.sidebar {
-  position: sticky;
-  top: 0;
-  height: 100vh;
 }
