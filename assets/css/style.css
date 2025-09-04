@@ -155,7 +155,7 @@ body {
   margin-top: 1.25rem;
   margin-bottom: 0.6rem;
   font-weight: 600;
-  font-family: 'Public Sans', sans-serif;
+  font-family: 'JetBrains Mono', monospace;
 }
 .main-content p { margin: 0.75rem 0; }
 .main-content a { color: var(--accent); text-decoration: underline; }
