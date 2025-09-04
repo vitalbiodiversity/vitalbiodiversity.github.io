@@ -2,11 +2,32 @@
 layout: default
 ---
 
-<div class="two-column-layout">
+<div class="site-wrapper">
+
   <aside class="sidebar">
-    {{ content_for_sidebar }}
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">
+        {{ site.title }}
+      </a>
+    </h1>
+
+    {% if site.logo %}
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo" class="logo">
+    {% endif %}
+
+    <nav class="sidebar-nav">
+      <ul>
+        {% for page in site.pages %}
+          {% if page.title %}
+            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
   </aside>
+
   <main class="main-content">
     {{ content }}
   </main>
+
 </div>
