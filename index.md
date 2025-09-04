@@ -1,5 +1,5 @@
 ---
-title: Design Brief
+title: a design brief
 layout: default
 ---
 
