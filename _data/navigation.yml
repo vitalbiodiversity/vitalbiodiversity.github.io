@@ -1,9 +1,9 @@
 main:
-  - title: "Design Brief"
+  - title: "design brief"
     url: /design-brief/
-  - title: "Companion Paper"
+  - title: "companion paper"
     url: /companion-paper/
-  - title: "Repository"
+  - title: "repository"
     url: /repository/
-  - title: "About"
+  - title: "about"
     url: /about/
