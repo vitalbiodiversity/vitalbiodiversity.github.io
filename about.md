@@ -37,22 +37,20 @@ Westerlaken, M. (2025, forthcoming). Vital Design Principles for 2050: Towards L
 Westerlaken, M. (2025, forthcoming). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
 
 
-The Companion Paper cites prior collaborative papers that inspired this project. These works were undertaken at the University of Cambridge during postdoctoral research in the ERC-funded Smart Forests project under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 866006)
+### The Companion Paper cites prior collaborative papers that inspired this project. 
+These works were undertaken at the University of Cambridge during postdoctoral research in the ERC-funded Smart Forests project under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 866006)
 
-On the data practices of local communities in biodiversity restoration projects at Ecodorp Boekel:
-	Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights 
-	from Community Data Processes and Creative Practice, Computer Supported Cooperative Work
-	(CSCW), Springer Nature, 34, 835–869. https://doi.org/10.1007/s10606-025-09524-2
+### On the data practices of local communities in biodiversity restoration projects at Ecodorp Boekel:
+Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work (CSCW), Springer Nature, 34, 835–869. <a href="https://doi.org/10.1007/s10606-025-09524-2">https://doi.org/10.1007/s10606-025-09524-2</a> 
 
-On the developmental processes of emerging biodiversity data technologies:
-	Westerlaken, M. (2024). Digital Twins and the Digital Logics of Biodiversity, Social Studies of Science, 54(4), 
-	574-597. https://doi.org/10.1177/03063127241236809
+### On the developmental processes of emerging biodiversity data technologies:
+Westerlaken, M. (2024). Digital Twins and the Digital Logics of Biodiversity, Social Studies of Science, 54(4), 574-597. <a href="https://doi.org/10.1177/03063127241236809">https://doi.org/10.1177/03063127241236809</a>
 
-On the participation of ecosystem entities and multispecies stakeholders in environmental technologies:
-	Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Participation by Foregrounding More-	Than-Human Relations in Digital Forests. Environmental Humanities, 15(1), 87-108. https://doi.org/10.1215/22011919-10216173
+### On the participation of ecosystem entities and multispecies stakeholders in environmental technologies:
+Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Participation by Foregrounding More-	Than-Human Relations in Digital Forests. Environmental Humanities, 15(1), 87-108. <a href="https://doi.org/10.1215/22011919-10216173">https://doi.org/10.1215/22011919-10216173</a> https://doi.org/10.1215/22011919-10216173
 	
-On the creation of pluralistic, participatory, data platforms:
-	Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. https://doi.org/10.1145/3537797.3537804
+### On the creation of pluralistic, participatory, data platforms:
+Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. <a href="https://doi.org/10.1145/3537797.3537804">https://doi.org/10.1145/3537797.3537804</a> 
 	
 
 # Acknowledgements
