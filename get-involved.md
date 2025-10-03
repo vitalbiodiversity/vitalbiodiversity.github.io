@@ -40,9 +40,9 @@ All details on the research methods, the data, and the rationale that inspired t
 
 ### This work will also be presented at the following conferences:
 
-- Westerlaken, M. (2025, forthcoming). Vital Design Principles for 2050: Towards Less Tech-Driven and More Ecosystem-Driven Data Systems. Living Data 2025 (October 21-24 2025, Bogotá, Colombia).
+- Westerlaken, M. (2025). Vital Design Principles for 2050: Towards Less Tech-Driven and More Ecosystem-Driven Data Systems. Living Data 2025 (October 21-24 2025, Bogotá, Colombia).
 
-- Westerlaken, M. (2025, forthcoming). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
+- Westerlaken, M. (2025). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
 
 
 _________
@@ -65,6 +65,7 @@ Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Partic
 Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. <a href="https://doi.org/10.1145/3537797.3537804">https://doi.org/10.1145/3537797.3537804</a> 
 
 <br>
+
 _________
 
 
