@@ -6,7 +6,6 @@ layout: default
 # <span style="color:#FAAE17;">a design brief</span>
 
 <br>
-<br>
 
 
 # THE PROBLEM
@@ -23,7 +22,6 @@ Pursuing real innovation demands more creative proposals. Avant-garde ideas that
 
 The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), signed by 196 countries, is <span style="color:#71BE44;">'a world of living in harmony with nature'</span> by 2050. This calls for technologies that do not just deliver ecosystem data but also embed this global vision into their design. This brief calls for designers, developers, and other future-makers to propose biodiversity data systems that are as <span style="color:#71BE44;">alive</span> as the ecosystems they are connected to.
 
-<br>
 <br>
 
 # DESIGN OBJECTIVE
