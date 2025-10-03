@@ -40,7 +40,6 @@ The design may focus on environmental processes at any scale deemed relevant in 
 
 # KEY STAKEHOLDERS
 - <span style="color:#71BE44;">Living ecosystems</span>, humans, and multi-species entities whose expressions and lives are turned into data.
-
 <br>
   
 - <span style="color:#71BE44;">Corporations</span> committed to move beyond impact metrics towards aligning their operations with ecological regeneration and the KMGBF vision.
