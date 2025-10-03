@@ -28,7 +28,6 @@ The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), s
 
 Design a data tool or platform that is alive, and grounded in the following three principles:
 
-
 <br>
 
 It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation). 
