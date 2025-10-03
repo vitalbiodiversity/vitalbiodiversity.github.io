@@ -14,7 +14,7 @@ layout: default
 What does it mean to innovate when creating technologies for ecological purposes? Certainly not by merely generating more ecosystem data, or releasing yet another AI tool to identify species faster. Hundreds of tools like that are currently produced, and few of these meaningfully connect our growing ecosystem awareness to the intricate level of decision-making needed to protect, restore, or adapt to ecosystems. They turn barely living ecosystems into disconnected data fragments further stripped of their vitality. 
 
 <br>
-<span style="color:#00ADEE;">Ecosystems are not computers. They are alive. What if data systems reflected that vitality?>
+<span style="color:#00ADEE;">Ecosystems are not computers. They are alive. What if data systems reflected that vitality?
 </span> 
 <br>
 <br>
