@@ -33,6 +33,7 @@ Design a data tool or platform that is alive, and grounded in the following thr
 <br>
 
 It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation).
+
 <br>
  
 The design may focus on environmental processes at any scale deemed relevant in response to ecological crises – from the lived experiences of individual organisms within an ecosystem to the broader dynamics of planetary systems. Your goal is to spark technological innovation rooted in ecological vitality.
@@ -100,5 +101,7 @@ All designs have socio-political effects. The design must therefore critically c
 <br>
 <br>
 
+<p style="text-align: justify;"> 
 <span style="color:#00ADEE;">WHAT WOULD IT MEAN FOR A DATASET TO BREATHE? </span> <span style="color:#71BE44;">HOW DO OTHER LIFEWORLDS INSPIRE MONITORING?</span> <span style="color:#FAAE17;">WHAT IF GROUND TRUTHING BIODIVERSITY REQUIRED BUILDING CONNECTIONS WITH LOCAL ECOSYSTEMS?</span> <span style="color:#00ADEE;">WHAT TOOL CAN HELP THE MOST BIZARRE INDICATOR SPECIES EXPRESS THEIR BIODIVERSITY KNOWLEDGE?</span> <span style="color:#71BE44;">HOW CAN A NEW DASHBOARD SHOW THAT ECOSYSTEMS ARE NON-DETERMINISTIC AND CHAOTIC?</span> <span style="color:#FAAE17;">WHAT COULD A VITAL BIODIVERSITY CREDIT SYSTEM LOOK LIKE?</span> <span style="color:#00ADEE;">WHAT IF ECOSYSTEM ENTITIES COULD DETERMINE HOW THEIR DATA IS USED?</span> <span style="color:#71BE44;">HOW CAN MORE VITAL DATA TOOLS HELP CORPORATIONS DRASTICALLY INCREASE THEIR NATURE POSITIVE AMBITIONS?</span> <span style="color:#FAAE17;">CAN DATA REPORTING PLATFORMS ALSO CENTER BIODIVERSITY RELATIONS THROUGH GRIEF, AWE, OR URGENCY?</span> <span style="color:#00ADEE;">WHAT IF ENVIRONMENTAL MONITORING TOOLS CAN FORGET, COMPOST, OR EVOLVE?</span> <span style="color:#71BE44;">HOW CAN A DATA PLATFORM BRING TWO NON-HUMAN SPECIES IN CONVERSATION WITH EACH OTHER TO RESPOND TO ECOSYSTEM THREATS?</span> <span style="color:#FAAE17;">WHAT IF DIGITAL TWINS WERE NOT MIRRORS OF ENVIRONMENTS BUT COMPANIONS THAT EVOLVE WITH ECOSYSTEMS?</span> <span style="color:#00ADEE;">CAN DATA PLATFORMS SURFACE WHAT IS MISSING, NOT ONLY WHAT IS MEASURED?</span> <span style="color:#71BE44;">HOW COULD A MORE VITAL METRIC BECOME PART OF CORPORATE SUSTAINABILITY REPORTING?</span> <span style="color:#FAAE17;">HOW CAN A QUANTITATIVE DATA VISUALIZATION BE REDESIGNED ACCORDING TO VITAL DATA PRINCIPLES?</span> <span style="color:#00ADEE;">WHAT IF NON-HUMAN SPECIES COULD INITIATE ALERTS IN A DASHBOARD SYSTEM?</span> <span style="color:#71BE44;">CAN BIODIVERSITY DATA TOOLS PRACTICE REFUSAL AS RESPONSE TO DATA QUERIES?
 </span> 
+</p>
