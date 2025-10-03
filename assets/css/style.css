@@ -1,8 +1,8 @@
 :root{
   --site-max-width: 1100px;    
   --sidebar-width: 240px;      
-  --content-max-width: 740px;  
-  --base-font-size: 14.5px;      
+  --content-max-width: 760px;  
+  --base-font-size: 14px;      
   --sidebar-bg: #1C5B46;       
   --accent: #2d7a7b;
 }
@@ -161,14 +161,6 @@ body {
 .main-content a { color: var(--accent); text-decoration: underline; }
 code, pre { font-family: 'JetBrains Mono', monospace; }
 
-/* Better wrapping: allow hyphenation for natural word breaks */
-.main-content {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-}
 
 /* subtle divider between columns on large screens */
 @media (min-width: 900px){
