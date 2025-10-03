@@ -1,9 +1,9 @@
 ---
-title: about
+title: get involved
 layout: default
 ---
 
-# about
+# Get Involved
 
 Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by dr. Michelle Westerlaken at the MIT Climate and Sustainability Consortium, in collaboration with member companies. 
 
@@ -12,11 +12,9 @@ A design brief is a short outcome document meant to spark new forms of innovatio
 
 <br>
 
-## Get Involved
-
 <span style="color:#00ADEE;"> Do you work on biodiversity data systems, platforms, or features and would like to talk more? Are you organizing a hackathon and want to tailor this brief to your event? Are you writing a funding call and want to incorporate the Brief into your proposal? Do you have examples that might fit with this approach that can be featured on this site? Or do you have any other ideas to collaborate? </span>
 
-Please get in touch! Via e-mail (mwester@mit.edu), or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. 
+Please get in touch! Via <a href="mailto:mwester@mit.edu">email</a>, or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. 
 
 
 <br>
