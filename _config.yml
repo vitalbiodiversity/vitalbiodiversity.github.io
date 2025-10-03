@@ -1,16 +1,5 @@
 title: VITAL BIODIVERSITY SYSTEMS
-# theme: jekyll-theme-minimal
 
-# Navigation (sidebar)
-#navigation:
- # - title: Design Brief
- #   url: /index.html
- # - title: Companion Paper
- #   url: /companion-paper.html
- # - title: Repository
- #   url: /repository.html
- # - title: About
- #   url: /about.html
 
 defaults:
   - scope:
