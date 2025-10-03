@@ -19,6 +19,7 @@ What does it mean to innovate when creating technologies for ecological purposes
 <br>
 
 Pursuing real innovation demands more creative proposals. Avant-garde ideas that are less technology-driven and much more fundamentally engaged with the living planet. It is only in this way that important new ecosystem data can be used to respond to ecological crises.
+
 <br>
 
 The main vision of the Kunming-Montreal Global Biodiversity Framework (KMGBF), signed by 196 countries, is <span style="color:#71BE44;">'a world of living in harmony with nature'</span> by 2050. This calls for technologies that do not just deliver ecosystem data but also embed this global vision into their design. This brief calls for designers, developers, and other future-makers to propose biodiversity data systems that are as <span style="color:#71BE44;">alive</span> as the ecosystems they are connected to.
@@ -31,7 +32,8 @@ Design a data tool or platform that is alive, and grounded in the following thr
 
 <br>
 
-It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation). 
+It must be <span style="color:#FAAE17;">response-able</span> (capable of engaging with its context rather than merely representing it), <span style="color:#FAAE17;">organic</span> (inspired by ecosystem processes rather than technical features), and <span style="color:#FAAE17;">relational</span> (structured around interdependence rather than data fragmentation).
+<br>
  
 The design may focus on environmental processes at any scale deemed relevant in response to ecological crises – from the lived experiences of individual organisms within an ecosystem to the broader dynamics of planetary systems. Your goal is to spark technological innovation rooted in ecological vitality.
 
