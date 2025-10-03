@@ -11,15 +11,19 @@ Based on four years of design research, this Design Brief inspires more ecologic
 A design brief is a short outcome document meant to spark new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align to the Kunming-Montreal Global Biodiversity Framework’s vision.
 
 
-## Get Involved
-Do you work on biodiversity data systems, platforms, or features and would like to talk more? Are you organizing a hackathon and want to tailor this brief to your event? Are you writing a funding call and want to incorporate the Brief into your proposal? Do you have examples that might fit with this approach that can be featured on this site? Or do you have any other ideas to collaborate?
 
-Please get in touch! Via e-mail (mwester@mit.edu), or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. 
+## Get Involved
+<strong>Do you work on biodiversity data systems, platforms, or features and would like to talk more? Are you organizing a hackathon and want to tailor this brief to your event? Are you writing a funding call and want to incorporate the Brief into your proposal? Do you have examples that might fit with this approach that can be featured on this site? Or do you have any other ideas to collaborate?
+
+Please get in touch! Via e-mail (mwester@mit.edu), or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. </strong>
+
 
 
 _________
 
+
 # Research Background
+
 
 
 ## Related Publications and Presentations
@@ -27,31 +31,37 @@ _________
 All details on the research methods, the data, and the rationale that inspired this Design Brief, can be found in the Companion Paper. This postdoctoral work is supported by the MIT Climate and Sustainability Consortium:
 
 
-Westerlaken, M. (add co-authors). (2025, forthcoming). Vital biodiversity systems: A companion paper, MIT Climate and Sustainability Consortium, White Paper. (add D-Space DOI link).
+- Westerlaken, M. (add co-authors). (2025, forthcoming). Vital biodiversity systems: A companion paper, MIT Climate and Sustainability Consortium, White Paper. (add D-Space DOI link).
+
 
 
 ### This work will also be presented at the following conferences:
 
-Westerlaken, M. (2025, forthcoming). Vital Design Principles for 2050: Towards Less Tech-Driven and More Ecosystem-Driven Data Systems. Living Data 2025 (October 21-24 2025, Bogotá, Colombia).
+- Westerlaken, M. (2025, forthcoming). Vital Design Principles for 2050: Towards Less Tech-Driven and More Ecosystem-Driven Data Systems. Living Data 2025 (October 21-24 2025, Bogotá, Colombia).
 
-Westerlaken, M. (2025, forthcoming). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
+- Westerlaken, M. (2025, forthcoming). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
+
+
 
 
 ### The Companion Paper cites prior collaborative papers that inspired this project. 
 These works were undertaken at the University of Cambridge during postdoctoral research in the ERC-funded Smart Forests project under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 866006)
 
-### On the data practices of local communities in biodiversity restoration projects at Ecodorp Boekel:
+
+- ### On the data practices of local communities in biodiversity restoration projects at Ecodorp Boekel:
 Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work (CSCW), Springer Nature, 34, 835–869. <a href="https://doi.org/10.1007/s10606-025-09524-2">https://doi.org/10.1007/s10606-025-09524-2</a> 
 
-### On the developmental processes of emerging biodiversity data technologies:
+- ### On the developmental processes of emerging biodiversity data technologies:
 Westerlaken, M. (2024). Digital Twins and the Digital Logics of Biodiversity, Social Studies of Science, 54(4), 574-597. <a href="https://doi.org/10.1177/03063127241236809">https://doi.org/10.1177/03063127241236809</a>
 
-### On the participation of ecosystem entities and multispecies stakeholders in environmental technologies:
+- ### On the participation of ecosystem entities and multispecies stakeholders in environmental technologies:
 Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Participation by Foregrounding More-	Than-Human Relations in Digital Forests. Environmental Humanities, 15(1), 87-108. <a href="https://doi.org/10.1215/22011919-10216173">https://doi.org/10.1215/22011919-10216173</a> https://doi.org/10.1215/22011919-10216173
 	
-### On the creation of pluralistic, participatory, data platforms:
+- ### On the creation of pluralistic, participatory, data platforms:
 Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. <a href="https://doi.org/10.1145/3537797.3537804">https://doi.org/10.1145/3537797.3537804</a> 
-	
+
+
+
 
 # Acknowledgements
 
