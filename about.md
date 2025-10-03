@@ -10,15 +10,17 @@ Based on four years of design research, this Design Brief inspires more ecologic
 
 A design brief is a short outcome document meant to spark new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align to the Kunming-Montreal Global Biodiversity Framework’s vision.
 
-
+<br>
 
 ## Get Involved
-<strong>Do you work on biodiversity data systems, platforms, or features and would like to talk more? Are you organizing a hackathon and want to tailor this brief to your event? Are you writing a funding call and want to incorporate the Brief into your proposal? Do you have examples that might fit with this approach that can be featured on this site? Or do you have any other ideas to collaborate?
 
-Please get in touch! Via e-mail (mwester@mit.edu), or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. </strong>
+<span style="color:#00ADEE;"> Do you work on biodiversity data systems, platforms, or features and would like to talk more? Are you organizing a hackathon and want to tailor this brief to your event? Are you writing a funding call and want to incorporate the Brief into your proposal? Do you have examples that might fit with this approach that can be featured on this site? Or do you have any other ideas to collaborate? </span>
+
+Please get in touch! Via e-mail (mwester@mit.edu), or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. 
 
 
-
+<br>
+<br>
 _________
 
 
@@ -42,7 +44,7 @@ All details on the research methods, the data, and the rationale that inspired t
 - Westerlaken, M. (2025, forthcoming). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
 
 
-
+_________
 
 ### The Companion Paper cites prior collaborative papers that inspired this project. 
 These works were undertaken at the University of Cambridge during postdoctoral research in the ERC-funded Smart Forests project under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 866006)
@@ -60,7 +62,7 @@ Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Partic
 - ### On the creation of pluralistic, participatory, data platforms:
 Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. <a href="https://doi.org/10.1145/3537797.3537804">https://doi.org/10.1145/3537797.3537804</a> 
 
-
+_________
 
 
 # Acknowledgements
