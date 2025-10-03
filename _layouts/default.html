@@ -26,15 +26,23 @@
   </a>
 </h1>
 
-
-        <nav class="sidebar-nav" aria-label="Main navigation">
+<nav class="sidebar-nav">
+  <ul>
+    {% for item in site.data.navigation.main %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+     
+     <!--   <nav class="sidebar-nav" aria-label="Main navigation">
           <ul>
             <li><a href="{{ '/' | relative_url }}">a design brief</a></li>
             <li><a href="{{ '/companion-paper' | relative_url }}">companion paper</a></li>
             <li><a href="{{ '/repository' | relative_url }}">repository</a></li>
             <li><a href="{{ '/about' | relative_url }}">about</a></li>
           </ul>
-        </nav>
+        </nav> -->
+        
       </aside>
 
       <main class="main-content" role="main">
