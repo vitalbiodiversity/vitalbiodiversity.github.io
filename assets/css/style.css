@@ -163,10 +163,10 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
 
 
 /* subtle divider between columns on large screens */
-/*@media (min-width: 900px){
+@media (min-width: 900px){
   .site-wrapper { align-items: flex-start; }
   .sidebar { box-shadow: 2px 0 0 rgba(0,0,0,0.03) inset; }
-} /*
+} 
 
 /* Mobile stacking */
 @media (max-width: 768px) {
