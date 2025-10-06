@@ -5,5 +5,5 @@ layout: default
 
 # repository
 
-This page is a curated collection of references, example projects, datasets, and frameworks.  
-You can update it over time with new inspiration and your own design work.
+This page will showcase a curated collection of vital biodiversity example projects and useful datasets.  
+
