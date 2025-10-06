@@ -17,7 +17,7 @@ A design brief is a short outcome document meant that sparks new forms of innova
 
 <br>
 
-Please get in touch! Via <a href="mailto:mwester@mit.edu">email</a>, via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>, or via the <a href="https://impactclimate.mit.edu/get-involved/">MIT Climate and Sustainability Consortium</a>.
+Please get in touch! Via <a href="mailto:mwester@mit.edu">email</a>, or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>.
 
 
 <br>
