@@ -5,11 +5,11 @@ layout: default
 
 # Get Involved
 
-Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by Michelle Westerlaken at the MIT Climate and Sustainability Consortium, and part of this process was done in collaboration with member companies. 
+Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by Michelle Westerlaken, postdoctoral Impact Fellow at the <a href="https://impactclimate.mit.edu/">MIT Climate and Sustainability Consortium</a>, and part of this process was done in collaboration with member companies. 
 
 <br>
 
-A design brief is a short outcome document meant to spark new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align with the Kunming-Montreal Global Biodiversity Framework’s vision.
+A design brief is a short outcome document meant that sparks new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align with the Kunming-Montreal Global Biodiversity Framework’s vision.
 
 <br>
 
@@ -17,7 +17,7 @@ A design brief is a short outcome document meant to spark new forms of innovatio
 
 <br>
 
-Please get in touch! Via <a href="mailto:mwester@mit.edu">email</a>, or via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>. 
+Please get in touch! Via <a href="mailto:mwester@mit.edu">email</a>, via <a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>, or via the <a href="https://impactclimate.mit.edu/get-involved/">MIT Climate and Sustainability Consortium</a>.
 
 
 <br>
@@ -29,7 +29,7 @@ _________
 
 <br>
 
-All details on the research methods, the data, and the rationale that inspired this Design Brief, can be found in the Companion Paper. This postdoctoral work is supported by the MIT Climate and Sustainability Consortium.
+All details on the research methods, the data, and the rationale that inspired this Design Brief, can be found in the <a href="https://vitalbiodiversity.github.io/companion-paper.html">Companion Paper</a>. This work is supported by the MIT Climate and Sustainability Consortium.
 
 
 
