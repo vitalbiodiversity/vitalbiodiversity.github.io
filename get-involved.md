@@ -5,11 +5,11 @@ layout: default
 
 # Get Involved
 
-Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by dr. Michelle Westerlaken at the MIT Climate and Sustainability Consortium, in collaboration with member companies. 
+Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by dr. Michelle Westerlaken at the MIT Climate and Sustainability Consortium, and part of this process was done in collaboration with member companies. 
 
 <br>
 
-A design brief is a short outcome document meant to spark new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align to the Kunming-Montreal Global Biodiversity Framework’s vision.
+A design brief is a short outcome document meant to spark new forms of innovation. It is written to inspire designers, project managers, developers, and funders to propose biodiversity data practices that better align with the Kunming-Montreal Global Biodiversity Framework’s vision.
 
 <br>
 
@@ -27,14 +27,9 @@ _________
 
 # Research Background
 
+<br>
 
-
-## Related Publications and Presentations
-
-All details on the research methods, the data, and the rationale that inspired this Design Brief, can be found in the Companion Paper. This postdoctoral work is supported by the MIT Climate and Sustainability Consortium:
-
-
-- Westerlaken, M. (add co-authors). (2025, forthcoming). Vital biodiversity systems: A companion paper, MIT Climate and Sustainability Consortium, White Paper. (add D-Space DOI link).
+All details on the research methods, the data, and the rationale that inspired this Design Brief, can be found in the Companion Paper. This postdoctoral work is supported by the MIT Climate and Sustainability Consortium.
 
 
 
@@ -44,26 +39,6 @@ All details on the research methods, the data, and the rationale that inspired t
 
 - Westerlaken, M. (2025). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
 
-
-_________
-
-### Prior Research
-
-The Companion Paper cites prior collaborative papers that inspired this project undertaken at the University of Cambridge during postdoctoral research in the ERC-funded Smart Forests project under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 866006)
-
-
-- ### On the data practices of local communities in biodiversity restoration projects at Ecodorp Boekel:
-Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work (CSCW), Springer Nature, 34, 835–869. <a href="https://doi.org/10.1007/s10606-025-09524-2">https://doi.org/10.1007/s10606-025-09524-2</a> 
-
-- ### On the developmental processes of emerging biodiversity data technologies:
-Westerlaken, M. (2024). Digital Twins and the Digital Logics of Biodiversity, Social Studies of Science, 54(4), 574-597. <a href="https://doi.org/10.1177/03063127241236809">https://doi.org/10.1177/03063127241236809</a>
-
-- ### On the participation of ecosystem entities and multispecies stakeholders in environmental technologies:
-Westerlaken, M., Gabrys, J., Urzedo, D., and Ritts, M. (2023). Unsettling Participation by Foregrounding More-	Than-Human Relations in Digital Forests. Environmental Humanities, 15(1), 87-108. <a href="https://doi.org/10.1215/22011919-10216173">https://doi.org/10.1215/22011919-10216173</a> https://doi.org/10.1215/22011919-10216173
-	
-- ### On the creation of pluralistic, participatory, data platforms:
-Westerlaken, M., Gabrys, J., and Urzedo, D. (2022). Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform, PDC ‘22: Proceedings of the 17th Participatory Design Conference 2022, ACM Press, Volume 2. 1-8. <a href="https://doi.org/10.1145/3537797.3537804">https://doi.org/10.1145/3537797.3537804</a> 
-
 <br>
 
 _________
@@ -71,5 +46,5 @@ _________
 
 # Acknowledgements
 
-Thanks to all research participants who shared their experiences with biodiversity data technologies. Special thanks to Dr. Amanda Bischoff for collaborating on data gathering at the MCSC through interviews, workshops, and symposium sessions, and for offering valuable suggestions in writing the companion paper together with the other co-authors. Thanks also to Dr. Marieke Meesters and Dr. Erik Sandelin for proofreading the Design Brief. Thanks to everyone at the MIT Climate and Sustainability Consortium for the many engaging conversations that enriched this work. Finally, thanks to designers and other future-makers around the world for experimenting with innovative approaches to creating more vital biodiversity systems.
+Thanks to all research participants who shared their experiences with biodiversity data technologies. These currently consist of corporate biodiversity specialists, but also connect to prior research with technology developers and restoration communities. Special thanks to Amanda Bischoff for collaborating on data gathering at the MCSC through interviews, workshops, and symposium sessions, and for offering valuable suggestions in writing the companion paper together with the other co-authors. Thanks also to Marieke Meesters and Erik Sandelin for their great suggestions to improve the Design Brief. Thanks to everyone at the MIT Climate and Sustainability Consortium for the many engaging conversations that enriched this work. Thanks to designers and other future-makers around the world for experimenting with innovative approaches to creating more vital biodiversity systems. Finally, thanks to all ecosystem entities, humans and other species, who are trying to co-exist on this planet, and can thereby continuously inspire new data practices.
 
