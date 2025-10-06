@@ -5,7 +5,7 @@ layout: default
 
 # Get Involved
 
-Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by Michelle Westerlaken, postdoctoral Impact Fellow at the <a href="https://impactclimate.mit.edu/">MIT Climate and Sustainability Consortium</a>, and part of this process was done in collaboration with member companies. 
+Based on four years of design research, this Design Brief inspires more ecologically responsive data technologies. This project is led by Michelle Westerlaken, postdoctoral Impact Fellow at the <a href="https://impactclimate.mit.edu/">MIT Climate and Sustainability Consortium</a>, and part of this work was done in collaboration with member companies. 
 
 <br>
 
