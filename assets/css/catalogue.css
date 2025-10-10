@@ -10,6 +10,7 @@
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-sizing: border-box; /* makes gap respected */
   display: flex;
   flex-direction: column;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -20,6 +21,9 @@
   transform: scale(1.02);
   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
   z-index: 2; /* makes hover pop above others */
+  margin: 0;
+  overflow: hidden; /* stops hover spill */
+  position: relative; /* needed for z-index to work */
 }
 
 .catalogue-images {
