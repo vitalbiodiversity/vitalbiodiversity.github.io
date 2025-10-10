@@ -1,9 +1,10 @@
 .catalogue-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 2rem;
+  gap: 2rem; /* consistent spacing between cards */
   padding: 1rem;
-  align-items: start; /* make sure items start at top and don’t overlap */
+  grid-auto-rows: auto; /* allows variable card heights while keeping spacing consistent */
+  align-items: start;
 }
 
 .catalogue-card {
@@ -11,13 +12,10 @@
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-  box-sizing: border-box; /* makes gap respected */
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  min-height: 1px; /* ensures proper grid row sizing */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin: 0; /* ensure no margin collapse */
-  margin-bottom: 2rem; /* <- this creates whitespace between cards */
   position: relative;
 }
 
