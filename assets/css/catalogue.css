@@ -13,11 +13,13 @@
   display: flex;
   flex-direction: column;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: 0; /* ensure no margin collapse */
 }
 
 .catalogue-card:hover {
   transform: scale(1.02);
   box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  z-index: 2; /* makes hover pop above others */
 }
 
 .catalogue-images {
