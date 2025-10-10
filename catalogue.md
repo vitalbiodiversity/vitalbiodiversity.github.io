@@ -1,9 +1,9 @@
 ---
-title: repository
+title: catalogue
 layout: default
 ---
 
-# repository
+# catalogue
 
 This page will showcase a curated collection of vital biodiversity example projects and useful datasets.  
 
