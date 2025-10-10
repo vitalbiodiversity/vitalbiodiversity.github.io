@@ -114,7 +114,7 @@
 
 .catalogue-modal-content {
   background: #fff;
-  margin: 5% auto; /* centers modal vertically */
+  margin: auto; /* centers modal vertically */
   padding: 1rem 2rem 2rem 2rem; /* top, right, bottom, left */
   border-radius: 8px;
   width: 90%;
