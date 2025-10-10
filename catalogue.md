@@ -81,8 +81,10 @@ layout: default
 
 <div id="modal-1" class="catalogue-modal">
   <div class="catalogue-modal-content">
-    <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+  <div class="catalogue-modal-header">
     <h2>Project 1 Title</h2>
+    <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+  </div>
     <p>This is a longer description for Project 1. You can add more details here.</p>
     <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
@@ -98,8 +100,10 @@ layout: default
 
 <div id="modal-2" class="catalogue-modal">
   <div class="catalogue-modal-content">
-    <span class="catalogue-modal-close" onclick="closeModal(2)">&times;</span>
-    <h2>Project 2 Title</h2>
+  <div class="catalogue-modal-header">
+    <h2>Project 1 Title</h2>
+    <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+  </div>
     <p>This is a longer description for Project 2. You can add more details here.</p>
     <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
@@ -112,8 +116,10 @@ layout: default
 
 <div id="modal-3" class="catalogue-modal">
   <div class="catalogue-modal-content">
-    <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
-    <h2>Project 3 Title</h2>
+  <div class="catalogue-modal-header">
+    <h2>Project 1 Title</h2>
+    <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+  </div>
     <p>This is a longer description for Project 3. You can add more details here.</p>
     <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
@@ -131,9 +137,11 @@ layout: default
 </div>
 
 <div id="modal-4" class="catalogue-modal">
-  <div class="catalogue-modal-content">
-    <span class="catalogue-modal-close" onclick="closeModal(4)">&times;</span>
-    <h2>Project 4 Title</h2>
+ <div class="catalogue-modal-content">
+  <div class="catalogue-modal-header">
+    <h2>Project 1 Title</h2>
+    <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+  </div>
     <p>This is a longer description for Project 4. You can add more details here.</p>
     <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
