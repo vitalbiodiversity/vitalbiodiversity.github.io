@@ -89,6 +89,15 @@
   background: var(--accent);
 }
 
+/* ---------- Modal Buttons ---------- */
+.catalogue-modal .catalogue-link {
+  color: #fff; /* force white text inside modal */
+}
+
+.catalogue-modal .catalogue-link:hover {
+  color: #fff; /* text stays white on hover */
+  background: var(--accent); /* keep hover background effect */
+
 /* ---------- Modal Styles ---------- */
 .catalogue-modal {
   display: none; /* hidden by default */
