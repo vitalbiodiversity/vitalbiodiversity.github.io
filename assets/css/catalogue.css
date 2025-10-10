@@ -124,6 +124,14 @@
   gap: 0.5rem;
 }
 
+.catalogue-modal-header {
+  display: flex;
+  justify-content: space-between; /* X on the right, title on the left */
+  align-items: flex-start;        /* align title to the top */
+  gap: 1rem;
+  margin-bottom: 1rem; /* optional spacing below header */
+}
+
 .catalogue-modal-content h2:first-child {
   margin-top: 0; /* remove default heading margin */
 }
