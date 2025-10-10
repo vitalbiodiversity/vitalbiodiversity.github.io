@@ -1,7 +1,6 @@
 ---
 title: catalogue
 layout: default
-<link rel="stylesheet" href="/assets/css/catalogue.css">
 ---
 
 # catalogue
