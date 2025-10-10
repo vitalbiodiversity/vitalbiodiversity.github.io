@@ -57,11 +57,11 @@ html, body, .page-outer, .site-wrapper {
   flex-direction: column;
   gap: 1rem;
   position: sticky;       /* fixed-like behavior within layout */
-  top: 2rem;              /* keeps same top spacing as before */
-  height: fit-content;    /* only as tall as needed */
+  top: 2rem;              /* keeps same top spacing as before */  
   border-radius: 0px;
   font-family: 'JetBrains Mono', monospace;
   align-self: flex-start; /* aligns top of sidebar with top of content */
+  height: auto;  
 }
 
 .sidebar .logo{
