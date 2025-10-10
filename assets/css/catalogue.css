@@ -78,6 +78,11 @@
   background: var(--accent);
 }
 
+a {
+  color: ##FFFFFF; /* accent color for catalogue page */
+}
+
+
 @media (max-width: 480px) {
   .catalogue-images {
     grid-template-columns: repeat(2, 1fr);
