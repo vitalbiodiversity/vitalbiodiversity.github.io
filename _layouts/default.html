@@ -8,7 +8,7 @@
   <!-- Google Fonts: Public Sans + JetBrains Mono -->
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 
-  <!-- Your CSS -->
+  <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=3' | relative_url }}">
   <link rel="stylesheet" href="/assets/css/catalogue.css">
 
@@ -45,47 +45,83 @@
     </div>
   </div>
 
-  <!-- Catalogue Modal -->
-<div id="catalogueModal" class="catalogue-modal">
-  <div class="catalogue-modal-content">
-    <span class="catalogue-modal-close">&times;</span>
-    <div class="catalogue-modal-text">
-      <h3 id="modal-title"></h3>
-      <p id="modal-description"></p>
-      <a id="modal-link" class="catalogue-link" target="_blank">Visit Project</a>
+  <!-- Catalogue Modals -->
+  <!-- Modal 1 -->
+  <div id="modal-1" class="catalogue-modal">
+    <div class="catalogue-modal-content">
+      <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
+      <h2>Project 1 Title</h2>
+      <p>Longer description for Project 1.</p>
+      <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
+      <div class="catalogue-images">
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project1-1.jpg" alt=""></div>
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project1-2.jpg" alt=""></div>
+      </div>
     </div>
-    <div class="catalogue-modal-images" id="modal-images"></div>
   </div>
-</div>
 
-<script>
-document.querySelectorAll('.catalogue-card').forEach(card => {
-  card.addEventListener('click', () => {
-    const title = card.querySelector('h3').textContent;
-    const description = card.querySelector('p').textContent;
-    const link = card.dataset.link;
-    const images = Array.from(card.querySelectorAll('.catalogue-image-wrapper img')).map(img => img.src);
+  <!-- Modal 2 -->
+  <div id="modal-2" class="catalogue-modal">
+    <div class="catalogue-modal-content">
+      <span class="catalogue-modal-close" onclick="closeModal(2)">&times;</span>
+      <h2>Project 2 Title</h2>
+      <p>Longer description for Project 2.</p>
+      <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
+      <div class="catalogue-images">
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project2-1.jpg" alt=""></div>
+      </div>
+    </div>
+  </div>
 
-    document.getElementById('modal-title').textContent = title;
-    document.getElementById('modal-description').textContent = description;
-    document.getElementById('modal-link').href = link;
+  <!-- Modal 3 -->
+  <div id="modal-3" class="catalogue-modal">
+    <div class="catalogue-modal-content">
+      <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
+      <h2>Project 3 Title</h2>
+      <p>Longer description for Project 3.</p>
+      <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
+      <div class="catalogue-images">
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project3-1.jpg" alt=""></div>
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project3-2.jpg" alt=""></div>
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project3-3.jpg" alt=""></div>
+      </div>
+    </div>
+  </div>
 
-    const modalImages = document.getElementById('modal-images');
-    modalImages.innerHTML = '';
-    images.forEach(src => {
-      const img = document.createElement('img');
-      img.src = src;
-      modalImages.appendChild(img);
-    });
+  <!-- Modal 4 -->
+  <div id="modal-4" class="catalogue-modal">
+    <div class="catalogue-modal-content">
+      <span class="catalogue-modal-close" onclick="closeModal(4)">&times;</span>
+      <h2>Project 4 Title</h2>
+      <p>Longer description for Project 4.</p>
+      <a href="https://example.com" class="catalogue-link" target="_blank">Visit Project</a>
+      <div class="catalogue-images">
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project4-1.jpg" alt=""></div>
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project4-2.jpg" alt=""></div>
+        <div class="catalogue-image-wrapper"><img src="/assets/catalogue/project4-3.jpg" alt=""></div>
+      </div>
+    </div>
+  </div>
 
-    document.getElementById('catalogueModal').style.display = 'block';
-  });
-});
+  <!-- Modal Scripts -->
+  <script>
+    function openModal(modalId) {
+      const modal = document.getElementById('modal-' + modalId);
+      modal.style.display = 'block';
 
-document.querySelector('.catalogue-modal-close').addEventListener('click', () => {
-  document.getElementById('catalogueModal').style.display = 'none';
-});
-</script>
+      // Close if click outside modal content
+      modal.onclick = function(event) {
+        if (event.target === modal) {
+          modal.style.display = 'none';
+        }
+      }
+    }
+
+    function closeModal(modalId) {
+      const modal = document.getElementById('modal-' + modalId);
+      modal.style.display = 'none';
+    }
+  </script>
 
   
 </body>
