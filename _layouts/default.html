@@ -56,9 +56,8 @@
 
   <!-- Modal Scripts -->
   <script>
-    function openModal(contentHtml) {
-  const modal = document.getElementById('catalogueModal');
-  document.getElementById('modalContent').innerHTML = contentHtml;
+function openModal(modalId) {
+  const modal = document.getElementById('modal-' + modalId);
   modal.style.display = 'block';
 
   modal.onclick = function(event) {
@@ -68,12 +67,11 @@
   }
 }
 
-function closeModal() {
-  const modal = document.getElementById('catalogueModal');
+function closeModal(modalId) {
+  const modal = document.getElementById('modal-' + modalId);
   modal.style.display = 'none';
-  document.getElementById('modalContent').innerHTML = '';
 }
-  </script>
+</script>
 
   
 </body>
