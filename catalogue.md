@@ -16,7 +16,7 @@ layout: default
       <p>This is a short description of Project 1. Replace with your actual text.</p>
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
-        <div class="catalogue-images">
+    <div class="catalogue-images">
       <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
       <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
     </div>
