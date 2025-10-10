@@ -56,12 +56,11 @@ html, body, .page-outer, .site-wrapper {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  position: sticky;       /* fixed-like behavior within layout */
+  position: fixed;       
   top: 2rem;              /* keeps same top spacing as before */  
-  border-radius: 0px;
   font-family: 'JetBrains Mono', monospace;
   align-self: flex-start; /* aligns top of sidebar with top of content */
-  height: auto;  
+  height: calc(100vh - 4rem); /* full viewport height minus padding */
 }
 
 .sidebar .logo{
@@ -150,6 +149,7 @@ html, body, .page-outer, .site-wrapper {
 
 /* Main content */
 .main-content{
+  margin-left: calc(var(--sidebar-width) + 2rem);
   flex: 1 1 auto;
   max-width: var(--content-max-width);
   padding: 2.5rem;
