@@ -11,40 +11,40 @@ layout: default
 
   <!-- Project Card 1 -->
   <div class="catalogue-card">
-    <div class="catalogue-images">
-      <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
-      <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
-    </div>
     <div class="catalogue-content">
       <h3>Project 1 Title</h3>
       <p>This is a short description of Project 1. Replace with your actual text.</p>
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
+        <div class="catalogue-images">
+      <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+      <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+    </div>
   </div>
 
   <!-- Project Card 2 -->
   <div class="catalogue-card">
-    <div class="catalogue-images">
-      <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
-    </div>
     <div class="catalogue-content">
       <h3>Project 2 Title</h3>
       <p>This is a short description of Project 2. Replace with your actual text.</p>
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
+    <div class="catalogue-images">
+      <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+    </div>
   </div>
 
   <!-- Project Card 3 -->
   <div class="catalogue-card">
-    <div class="catalogue-images">
-      <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
-      <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
-      <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
-    </div>
     <div class="catalogue-content">
       <h3>Project 3 Title</h3>
       <p>This is a short description of Project 3. Replace with your actual text.</p>
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
+    </div>
+    <div class="catalogue-images">
+      <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
+      <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
+      <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
     </div>
   </div>
 
