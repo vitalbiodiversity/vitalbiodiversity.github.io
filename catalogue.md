@@ -35,6 +35,9 @@ layout: default
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
         <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+        <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
+        </div>
       </div>
     </div>
   </div>
