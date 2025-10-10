@@ -34,10 +34,15 @@ body {
   display: flex;
   width: 100%;
   max-width: var(--site-max-width);
-  min-height: calc(100vh - 0px);
+  /*min-height: calc(100vh - 0px); */
   background: transparent;
   gap: 2rem;            
   align-items: stretch;
+}
+
+html, body, .page-outer, .site-wrapper {
+  height: auto;
+  min-height: 100%;
 }
 
 /* Sidebar */
