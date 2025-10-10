@@ -46,7 +46,7 @@
   </div>
 
   <!-- Single hidden modal container -->
-<div class="catalogue-modal" id="catalogueModal">
+<!-- <div class="catalogue-modal" id="catalogueModal">
   <div class="catalogue-modal-content">
     <span class="close" onclick="closeModal()">×</span>
     <div id="modalContent"></div>
@@ -55,7 +55,15 @@
 
 
   <!-- Modal Scripts -->
-  <script>
+ <script>
+// Hide all hard-coded modals on page load
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll('.catalogue-modal').forEach(modal => {
+    modal.style.display = 'none';
+  });
+});
+
+// Open modal by ID
 function openModal(modalId) {
   const modal = document.getElementById('modal-' + modalId);
   modal.style.display = 'block';
@@ -67,6 +75,7 @@ function openModal(modalId) {
   }
 }
 
+// Close modal by ID
 function closeModal(modalId) {
   const modal = document.getElementById('modal-' + modalId);
   modal.style.display = 'none';
