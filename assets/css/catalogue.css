@@ -3,6 +3,7 @@
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 2rem;
   padding: 1rem;
+  align-items: start; /* make sure items start at top and don’t overlap */
 }
 
 .catalogue-card {
@@ -13,6 +14,7 @@
   box-sizing: border-box; /* makes gap respected */
   display: flex;
   flex-direction: column;
+  min-height: 1px; /* ensures proper grid row sizing */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   margin: 0; /* ensure no margin collapse */
   position: relative;
