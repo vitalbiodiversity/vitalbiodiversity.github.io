@@ -21,6 +21,7 @@
 }
 
 .catalogue-images {
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 4px;
@@ -28,6 +29,7 @@
 
 .catalogue-images img {
   width: 100%;
+  height: 100%;
   aspect-ratio: 1 / 1; /* forces square images */
   object-fit: cover;   /* crops to center */
   display: block;
