@@ -124,6 +124,10 @@
   gap: 1rem;
 }
 
+.catalogue-modal-content h2:first-child {
+  margin-top: 0; /* remove default heading margin */
+}
+
 .catalogue-modal-close {
   color: #aaa;
   font-size: 28px;
