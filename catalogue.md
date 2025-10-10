@@ -17,8 +17,8 @@ layout: default
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
-      <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
-      <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+      <div><img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1"><div>
+     <div> <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2"><div>
     </div>
   </div>
 
@@ -30,7 +30,7 @@ layout: default
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
-      <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+      <div><img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1"><div>
     </div>
   </div>
 
@@ -42,9 +42,9 @@ layout: default
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
-      <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
-      <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
-      <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
+      <div><img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1"><div>
+      <div><img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2"><div>
+      <div><img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3"><div>
     </div>
   </div>
 
