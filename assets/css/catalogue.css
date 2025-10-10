@@ -21,16 +21,16 @@
 }
 
 .catalogue-images {
-  display: flex;
-  overflow-x: auto;
-  gap: 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 4px;
 }
 
 .catalogue-images img {
   width: 100%;
-  object-fit: cover;
-  flex-shrink: 0;
-  border-bottom: 1px solid #ddd;
+  aspect-ratio: 1 / 1; /* forces square images */
+  object-fit: cover;   /* crops to center */
+  display: block;
 }
 
 .catalogue-content {
@@ -63,4 +63,10 @@
 
 .catalogue-link:hover {
   background: #00ADEE;
+}
+
+@media (max-width: 480px) {
+  .catalogue-images {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
