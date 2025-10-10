@@ -115,13 +115,13 @@
 .catalogue-modal-content {
   background: #fff;
   margin: 5% auto; /* centers modal vertically */
-  padding: 0.5rem 2rem 2rem 2rem; /* top, right, bottom, left */
+  padding: 1.5rem 2rem 2rem 2rem; /* top, right, bottom, left */
   border-radius: 8px;
   width: 90%;
   max-width: 900px;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 .catalogue-modal-header {
