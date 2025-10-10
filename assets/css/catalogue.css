@@ -91,10 +91,29 @@
   color: black;
 }
 
-.catalogue-modal .catalogue-images {
+/* === NEW: modal images layout === */
+.catalogue-modal-images {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 8px;
+}
+
+.catalogue-modal-images .catalogue-image-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 100%; /* square cells */
+  overflow: hidden;
+}
+
+.catalogue-modal-images .catalogue-image-wrapper img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  display: block;
 }
 
 .catalogue-content {
@@ -137,9 +156,9 @@ a {
   color: #FFFFFF; /* accent color for catalogue page */
 }
 
-
 @media (max-width: 480px) {
-  .catalogue-images {
-    grid-template-columns: repeat(2, 1fr);
+  .catalogue-images,
+  .catalogue-modal-images {
+    grid-template-columns: 1fr; /* stack images in mobile */
   }
 }
