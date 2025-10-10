@@ -75,7 +75,7 @@
 }
 
 .catalogue-link:hover {
-  background: #00ADEE;
+  background: var(--accent);
 }
 
 @media (max-width: 480px) {
