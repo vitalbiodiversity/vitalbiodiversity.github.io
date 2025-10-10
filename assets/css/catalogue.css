@@ -67,7 +67,7 @@
 .catalogue-link {
   align-self: flex-start;
   padding: 0.4rem 0.8rem;
-  background: var(--accent);
+  background: #1C5B46;
   color: white;
   text-decoration: none;
   border-radius: 4px;
