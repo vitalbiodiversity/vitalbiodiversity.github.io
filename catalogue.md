@@ -16,14 +16,15 @@ layout: default
       <p>This is a short description of Project 1. Replace with your actual text.</p>
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
-   <div class="catalogue-images">
-  <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+    <div class="catalogue-images">
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+      </div>
+    </div>
   </div>
-  <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
-  </div>
-</div>
 
   <!-- Project Card 2 -->
   <div class="catalogue-card">
@@ -33,10 +34,11 @@ layout: default
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
-  <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+      </div>
+    </div>
   </div>
-</div>
 
   <!-- Project Card 3 -->
   <div class="catalogue-card">
@@ -46,17 +48,16 @@ layout: default
       <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
-  <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
-  </div>
-  <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
-  </div>
       <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
-  </div>
-</div>
+        <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
+      </div>
+    </div>
   </div>
 
-  <!-- Repeat up to 10 projects -->
 </div>
