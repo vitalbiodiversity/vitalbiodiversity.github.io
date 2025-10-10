@@ -14,7 +14,6 @@ layout: default
     <div class="catalogue-content">
       <h3>Project 1 Title</h3>
       <p>This is a short description of Project 1. Replace with your actual text.</p>
-      <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
@@ -48,7 +47,6 @@ layout: default
     <div class="catalogue-content">
       <h3>Project 2 Title</h3>
       <p>This is a short description of Project 2. Replace with your actual text.</p>
-      <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
@@ -76,7 +74,6 @@ layout: default
     <div class="catalogue-content">
       <h3>Project 3 Title</h3>
       <p>This is a short description of Project 3. Replace with your actual text.</p>
-      <a href="https://example.com" target="_blank" class="catalogue-link">Visit Project</a>
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
@@ -106,6 +103,45 @@ layout: default
         </div>
         <div class="catalogue-image-wrapper">
           <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!-- Project Card 4 -->
+  <div class="catalogue-card" onclick="openModal(3)">
+    <div class="catalogue-content">
+      <h3>Project 4 Title</h3>
+      <p>This is a short description of Project 4. Replace with your actual text.</p>
+    </div>
+    <div class="catalogue-images">
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-1.jpg" alt="Project 4 image 1">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-2.jpg" alt="Project 4 image 2">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project3-3.jpg" alt="Project 4 image 3">
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Project 4 -->
+  <div id="modal-3" class="catalogue-modal">
+    <div class="catalogue-modal-content">
+      <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
+      <h2>Project 4 Title</h2>
+      <p>This is a longer description for Project 4. You can add more details here.</p>
+      <div class="catalogue-images">
+        <div class="catalogue-image-wrapper">
+          <img src="/assets/catalogue/project3-1.jpg" alt="Project 4 image 1">
+        </div>
+        <div class="catalogue-image-wrapper">
+          <img src="/assets/catalogue/project3-2.jpg" alt="Project 4 image 2">
+        </div>
+        <div class="catalogue-image-wrapper">
+          <img src="/assets/catalogue/project3-3.jpg" alt="Project 4 image 3">
         </div>
       </div>
     </div>
