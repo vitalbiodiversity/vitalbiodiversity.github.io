@@ -34,7 +34,7 @@ layout: default
     </div>
     <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-1.jpg" alt="Project 2 image 1">
+    <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
   </div>
 </div>
 
@@ -47,13 +47,13 @@ layout: default
     </div>
     <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-1.jpg" alt="Project 3 image 1">
+    <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
   </div>
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-2.jpg" alt="Project 3 image 2">
+    <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
   </div>
       <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project1-2.jpg" alt="Project 3 image 3">
+    <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
   </div>
 </div>
   </div>
