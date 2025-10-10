@@ -45,25 +45,34 @@
     </div>
   </div>
 
+  <!-- Single hidden modal container -->
+<div class="catalogue-modal" id="catalogueModal">
+  <div class="catalogue-modal-content">
+    <span class="close" onclick="closeModal()">×</span>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
 
   <!-- Modal Scripts -->
   <script>
-    function openModal(modalId) {
-      const modal = document.getElementById('modal-' + modalId);
-      modal.style.display = 'block';
+    function openModal(contentHtml) {
+  const modal = document.getElementById('catalogueModal');
+  document.getElementById('modalContent').innerHTML = contentHtml;
+  modal.style.display = 'block';
 
-      // Close if click outside modal content
-      modal.onclick = function(event) {
-        if (event.target === modal) {
-          modal.style.display = 'none';
-        }
-      }
-    }
-
-    function closeModal(modalId) {
-      const modal = document.getElementById('modal-' + modalId);
+  modal.onclick = function(event) {
+    if (event.target === modal) {
       modal.style.display = 'none';
     }
+  }
+}
+
+function closeModal() {
+  const modal = document.getElementById('catalogueModal');
+  modal.style.display = 'none';
+  document.getElementById('modalContent').innerHTML = '';
+}
   </script>
 
   
