@@ -152,7 +152,7 @@
 .catalogue-modal .catalogue-image-wrapper {
   position: relative;
   width: 100%;
-  padding-top: 50%; /* square-ish for modal */
+  padding-top: 100%; /* same as cards */
   overflow: hidden;
   border-radius: 4px;
 }
