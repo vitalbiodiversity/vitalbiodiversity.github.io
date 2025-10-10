@@ -16,6 +16,7 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   margin: 0; /* ensure no margin collapse */
   position: relative;
+  border: 1px solid rgba(0,0,0,0.08); /* visual separation */
 }
 
 .catalogue-card:hover {
