@@ -45,23 +45,46 @@
     </div>
   </div>
 
-  <script>
-function openModal(id) {
-  document.getElementById(`modal-${id}`).style.display = "block";
-}
+  <!-- Catalogue Modal -->
+<div id="catalogueModal" class="catalogue-modal">
+  <div class="catalogue-modal-content">
+    <span class="catalogue-modal-close">&times;</span>
+    <div class="catalogue-modal-text">
+      <h3 id="modal-title"></h3>
+      <p id="modal-description"></p>
+      <a id="modal-link" class="catalogue-link" target="_blank">Visit Project</a>
+    </div>
+    <div class="catalogue-modal-images" id="modal-images"></div>
+  </div>
+</div>
 
-function closeModal(id) {
-  document.getElementById(`modal-${id}`).style.display = "none";
-}
+<script>
+document.querySelectorAll('.catalogue-card').forEach(card => {
+  card.addEventListener('click', () => {
+    const title = card.querySelector('h3').textContent;
+    const description = card.querySelector('p').textContent;
+    const link = card.dataset.link;
+    const images = Array.from(card.querySelectorAll('.catalogue-image-wrapper img')).map(img => img.src);
 
-window.onclick = function(event) {
-  const modals = document.querySelectorAll('.catalogue-modal');
-  modals.forEach(modal => {
-    if (event.target === modal) {
-      modal.style.display = "none";
-    }
+    document.getElementById('modal-title').textContent = title;
+    document.getElementById('modal-description').textContent = description;
+    document.getElementById('modal-link').href = link;
+
+    const modalImages = document.getElementById('modal-images');
+    modalImages.innerHTML = '';
+    images.forEach(src => {
+      const img = document.createElement('img');
+      img.src = src;
+      modalImages.appendChild(img);
+    });
+
+    document.getElementById('catalogueModal').style.display = 'block';
   });
-};
+});
+
+document.querySelector('.catalogue-modal-close').addEventListener('click', () => {
+  document.getElementById('catalogueModal').style.display = 'none';
+});
 </script>
 
   
