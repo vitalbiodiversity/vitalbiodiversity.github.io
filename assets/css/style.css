@@ -184,7 +184,46 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   .sidebar { box-shadow: 2px 0 0 rgba(0,0,0,0.03) inset; }
 } 
 
-/* Mobile stacking */
+/* ---------- Mobile stacking & reset ---------- */
+@media (max-width: 768px) {
+  /* Force site wrapper to stack vertically */
+  .page-outer {
+    padding: 1rem;
+  }
+
+  .site-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+
+  /* Sidebar full width on top */
+  .sidebar {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    flex: 0 0 auto !important;
+    top: 0 !important;
+    left: 0 !important;
+    overflow: visible !important;
+    border-radius: 6px !important;
+  }
+
+  /* Main content full width below sidebar */
+  .main-content {
+    margin-left: 0 !important;
+    max-width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    padding: 1.25rem !important;
+    border-radius: 6px !important;
+
+    /* Remove background completely for now */
+    background: none !important;
+  }
+}
+  
+/* Mobile stacking
 @media (max-width: 768px) {
   :root { --site-max-width: 100%; }
   .page-outer { padding: 1rem; }
@@ -206,7 +245,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
     max-width: 100%;
     padding: 1.25rem;
     border-radius: 6px;
-    background: none !important; /* remove background to avoid stacking issues */
+    background: none !important; /* remove background to avoid stacking issues 
     position: relative;          /* reset position */
   }
 }
