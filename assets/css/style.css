@@ -169,34 +169,13 @@ html, body, .page-outer, .site-wrapper {
 code, pre { font-family: 'JetBrains Mono', monospace; }
 
 
-/* ---------- Page background ---------- */
-/* Apply background to a wrapper around the content */
-.page-outer {
-  position: relative; /* ensures text/content layers above background */
-}
-
-.page-outer::before {
-  content: "";
-  position: fixed;          /* stays in place while scrolling */
-  top: 25px;                /* adjust vertical offset */
-  right: 0;                 /* stick to the right edge of the content container */
-  width: auto;              /* width auto to maintain aspect ratio */
-  height: 100vh;            /* fill viewport height */
-  max-width: 600px;         /* optional: limit max width so it doesn't get huge */
-  background-image: url('/assets/css/background-tall-right.png');
-  background-repeat: no-repeat;
-  background-size: auto 100%; /* maintain height, scale width automatically */
-  background-position: right top;
-  z-index: 0;               /* behind all content */
-  pointer-events: none;     /* so it doesn’t block clicks */
-}
-
-/* Ensure the content sits above the pseudo-element */
-.site-wrapper {
-  position: relative;
-  z-index: 1;
-}
-}
+/* ---------- Page background ---------- */ 
+.main-content { 
+  background-image: url('/assets/css/background-tall-right.png'); /* tall image with content on the right */ 
+  background-repeat: no-repeat; background-attachment: fixed; /* stays in place while scrolling on desktop */ 
+  background-size: auto 100%; /* height fills viewport, width auto */ 
+  background-position: right 230px top 25px; /* shift 230px left from right */ 
+  position: relative; /* ensures text is above background */ background-color: #ffffff; /* fallback */
 
 /* ---------- Mobile optimization ---------- */
 @media (max-width: 768px) {
