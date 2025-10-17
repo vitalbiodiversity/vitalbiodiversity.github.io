@@ -175,7 +175,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   background-repeat: no-repeat;
   background-attachment: fixed;       /* stays in place while scrolling on desktop */
   background-size: auto 100%;         /* height fills viewport, width auto */
-  background-position: calc(100% - 200px) top; /* shift 200px left from right */
+  background-position: calc(100% - 220px) top; /* shift 200px left from right */
   position: relative;              /* ensures text is above background */
   background-color: #ffffff;          /* fallback */
 }
