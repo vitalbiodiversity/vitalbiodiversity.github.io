@@ -15,51 +15,60 @@ layout: default
     <div class="catalogue-content">
       <h3>Diffractive Interfaces</h3>
       <p>A forest simulation proposal that lets users explore datasets where urban forest entities can hold conflicting perspectives, making trade‑offs, relations, and complexity visible in the data. Designed by Elisa Giaccardi, Seowoo Nam, and Iohanna Nicenboim, 2025.</p>
+   </div>
+  <div class="catalogue-images">
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
     </div>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
-      </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+    </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project1-3.jpg" alt="Project 1 image 3">
+    </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project1-4.jpg" alt="Project 1 image 4">
     </div>
   </div>
+</div>
 
   <!-- Project Card 2 -->
   <div class="catalogue-card" onclick="openModal(2)">
     <div class="catalogue-content">
       <h3>Vital Biodiversity Systems Brochure</h3>
       <p>The printed brochure of the Design Brief embeds vital biodiversity elements. Designed by Michelle Westerlaken, 2025.</p>
+   </div>
+  <div class="catalogue-images">
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
     </div>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
-      </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project2-2.jpg" alt="Project 2 image 2">
+    </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project2-3.jpg" alt="Project 2 image 3">
+    </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project2-4.jpg" alt="Project 2 image 4">
     </div>
   </div>
+</div>
 
   <!-- Project Card 3 -->
   <div class="catalogue-card" onclick="openModal(3)">
     <div class="catalogue-content">
       <h3>Pollinator Pathmaker</h3>
       <p>An online tool that uses pollinator data to design gardens not according to human aesthetics, but according to those of pollinators. Created by artist Daisy Alexandra Ginsberg, 2017.</p>
+   </div>
+  <div class="catalogue-images">
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
     </div>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-3.jpg" alt="Project 3 image 3">
-      </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
     </div>
   </div>
+</div>
 
   <!-- Project Card 4 -->
   <div class="catalogue-card" onclick="openModal(4)">
@@ -86,10 +95,10 @@ layout: default
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+        <img src="/assets/catalogue/project5-1.jpg" alt="Project 5 image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+        <img src="/assets/catalogue/project5-2.jpg" alt="Project 5 image 2">
       </div>
     </div>
   </div>
@@ -102,10 +111,10 @@ layout: default
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+        <img src="/assets/catalogue/project6-1.jpg" alt="Project 6 image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+        <img src="/assets/catalogue/project6-2.jpg" alt="Project 6 image 2">
       </div>
     </div>
   </div>
@@ -134,10 +143,16 @@ Images cited from the paper</p>
     <a href="https://doi.org/10.1145/3715336.3735404" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="">
+        <img src="/assets/catalogue/project1-1.jpg" alt="Diffractive Interfaces image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="">
+        <img src="/assets/catalogue/project1-2.jpg" alt="Diffractive Interfaces image 2">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project1-3.jpg" alt="Diffractive Interfaces image 3">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project1-4.jpg" alt="Diffractive Interfaces image 4">
       </div>
     </div>
   </div>
@@ -162,10 +177,16 @@ Images: M Westerlaken</p>
     <a href="https://vitalbiodiversity.github.io/" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-1.jpg" alt="">
+        <img src="/assets/catalogue/project2-1.jpg" alt="Vital Biodiversity Brochure image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-3.jpg" alt="">
+        <img src="/assets/catalogue/project2-2.jpg" alt="Vital Biodiversity Brochure image 2">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project2-3.jpg" alt="Vital Biodiversity Brochure image 3">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/catalogue/project2-4.jpg" alt="Vital Biodiversity Brochure image 4">
       </div>
     </div>
   </div>
@@ -188,18 +209,15 @@ Read more on the project website:
 
 Screenshots cited from the project website (A.D. Ginsberg)</p>
     <a href="https://pollinator.art/" class="catalogue-link" target="_blank">Visit Project</a>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-1.jpg" alt="">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-2.jpg" alt="">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project3-3.jpg" alt="">
-      </div>
-    </div>
+<div class="catalogue-images">
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project3-1.jpg" alt="Pollinator Pathmaker image 1">
   </div>
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project3-2.jpg" alt="Pollinator Pathmaker image 2">
+  </div>
+</div>
+</div>
 </div>
 
 <!-- Modal 4 -->
@@ -219,15 +237,15 @@ SP Chicunque Agreda, E Sánchez-Aldana, A Cuarán Jamioy, A Botero. (2024). Inte
 
 Images cited from the paper</p>
     <a href="https://doi.org/10.54916/rae.142607" class="catalogue-link" target="_blank">Visit Project</a>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project4-1.jpg" alt="">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project4-2.jpg" alt="">
-      </div>
-    </div>
+<div class="catalogue-images">
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project4-1.jpg" alt="Chumbe Weaving image 1">
   </div>
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project4-2.jpg" alt="Chumbe Weaving image 2">
+  </div>
+</div>
+</div>
 </div>
 
 <!-- Modal 5 -->
@@ -249,15 +267,15 @@ Many of these insights subsequently inspired the Design Brief.
 
 Images: M. Westerlaken</p>
     <a href="https://doi.org/10.1007/s10606-025-09524-2 " class="catalogue-link" target="_blank">Visit Project</a>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="">
-      </div>
-    </div>
+  <div class="catalogue-images">
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project5-1.jpg" alt="Digital Kins image 1">
   </div>
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project5-2.jpg" alt="Digital Kins image 2">
+  </div>
+</div>
+</div>
 </div>
 
 <!-- Modal 6 -->
@@ -276,14 +294,14 @@ Read more about this project: https://www.savimbo.com/
 Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)</p>
     <a href="https://www.savimbo.com/" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="">
-      </div>
-    </div>
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project6-1.jpg" alt="Savimbo image 1">
   </div>
+  <div class="catalogue-image-wrapper">
+    <img src="/assets/catalogue/project6-2.jpg" alt="Savimbo image 2">
+  </div>
+</div>
+</div>
 </div>
 
 <br>
