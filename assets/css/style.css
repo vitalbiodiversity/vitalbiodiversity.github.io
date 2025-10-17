@@ -169,13 +169,18 @@ html, body, .page-outer, .site-wrapper {
 code, pre { font-family: 'JetBrains Mono', monospace; }
 
 
-/* ---------- Page background ---------- */ 
-.main-content { 
-  background-image: url('/assets/css/background-tall-right.png'); /* tall image with content on the right */ 
-  background-repeat: no-repeat; background-attachment: fixed; /* stays in place while scrolling on desktop */ 
-  background-size: auto 100%; /* height fills viewport, width auto */ 
-  background-position: right 230px top 25px; /* shift 230px left from right */ 
-  position: relative; /* ensures text is above background */ background-color: #ffffff; /* fallback */
+/* ---------- Page background (desktop only) ---------- */
+@media (min-width: 769px) {
+  .main-content { 
+    background-image: url('/assets/css/background-tall-right.png'); /* tall image with content on the right */ 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;       /* stays in place while scrolling on desktop */
+    background-size: auto 100%;         /* height fills viewport, width auto */
+    background-position: right 230px top 25px; /* shift 230px left from right */
+    position: relative;                  /* ensures text is above background */
+    background-color: #ffffff;          /* fallback */
+  }
+}
 
 
 /* subtle divider between columns on large screens */
@@ -184,46 +189,33 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   .sidebar { box-shadow: 2px 0 0 rgba(0,0,0,0.03) inset; }
 } 
 
-/* ---------- Mobile stacking & reset ---------- */
+/* ---------- Mobile fallback (stacking restored) ---------- */
 @media (max-width: 768px) {
-  /* Force site wrapper to stack vertically */
+  .main-content {
+    background: none !important; /* remove background completely */
+    margin-left: 0;               /* ensure content stays full width */
+    max-width: 100%;
+    overflow: visible;
+    padding: 1.25rem;             /* keep spacing consistent */
+  }
+
+  /* Optional: reinforce stacking rules if needed */
   .page-outer {
     padding: 1rem;
   }
-
   .site-wrapper {
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 1rem !important;
+    flex-direction: column;
+    gap: 1rem;
   }
-
-  /* Sidebar full width on top */
   .sidebar {
-    position: relative !important;
-    width: 100% !important;
-    height: auto !important;
-    flex: 0 0 auto !important;
-    top: 0 !important;
-    left: 0 !important;
-    overflow: visible !important;
-    border-radius: 6px !important;
-  }
-
-  /* Main content full width below sidebar */
-  .main-content {
-    margin-left: 0 !important;
-    max-width: 100% !important;
-    height: auto !important;
-    overflow: visible !important;
-    padding: 1.25rem !important;
-    border-radius: 6px !important;
-
-    /* Remove background completely for now */
-    background: none !important;
+    width: 100%;
+    flex: 0 0 auto;
+    overflow: visible;
+    border-radius: 6px;
   }
 }
   
-/* Mobile stacking
+/* Mobile stacking old code
 @media (max-width: 768px) {
   :root { --site-max-width: 100%; }
   .page-outer { padding: 1rem; }
