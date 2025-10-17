@@ -177,13 +177,6 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   background-position: right 230px top 25px; /* shift 230px left from right */ 
   position: relative; /* ensures text is above background */ background-color: #ffffff; /* fallback */
 
-/* ---------- Mobile emergency fix: remove background ---------- */
-@media (max-width: 768px) {
-  .main-content {
-    background: none !important;   /* remove background */
-  }
-}
-
 
 /* subtle divider between columns on large screens */
 @media (min-width: 900px){
@@ -213,5 +206,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
     max-width: 100%;
     padding: 1.25rem;
     border-radius: 6px;
+    background: none !important; /* remove background to avoid stacking issues */
+    position: relative;          /* reset position */
   }
 }
