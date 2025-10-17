@@ -273,7 +273,7 @@ While continuing to protect the livelihoods of local communities, how could this
 
 Read more about this project: https://www.savimbo.com/ 
 
-Screenshots cited from the project website (Savimbo)</p>
+Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)</p>
     <a href="https://www.savimbo.com/" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
