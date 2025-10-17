@@ -197,6 +197,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
     max-width: 100%;
     overflow: visible;
     padding: 1.25rem;             /* keep spacing consistent */
+    position: relative;
   }
 
   /* Optional: reinforce stacking rules if needed */
@@ -210,6 +211,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   .sidebar {
     width: 100%;
     flex: 0 0 auto;
+    position: relative;
     overflow: visible;
     border-radius: 6px;
   }
