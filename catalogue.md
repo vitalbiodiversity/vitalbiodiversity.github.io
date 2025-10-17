@@ -143,7 +143,7 @@ This agent-based model approach creates a system where data conflicts are delibe
 This idea investigates the performative dimensions of interfaces and can ultimately inform decisions on how to negotiate different trade-offs in urban planning.
 <br><br>
 Read more about this project in this open access paper:<br>
-Giaccardi, E., Nam, S., & Nicenboim, I. (2025). Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 135–147. https://doi.org/10.1145/3715336.3735404
+Giaccardi, E., Nam, S., & Nicenboim, I. (2025). Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 135–147. <a href="https://doi.org/10.1145/3715336.3735404">https://doi.org/10.1145/3715336.3735404</a>
 <br><br>
 Images cited from the paper<br></p>
     <a href="https://doi.org/10.1145/3715336.3735404" class="catalogue-link" target="_blank">Visit Project</a>
@@ -209,7 +209,7 @@ Images: M Westerlaken<br></p>
 <br><br>
 This tool informs very practical decision-making on what species to plant, based on pollinator data. But it then also invites response from the ecosystem in real gardens across the world. 
 <br><br>
-This video interview with Ginsberg and Obrist includes much more details about what happened after the gardens were planted in London: https://www.youtube.com/watch?v=DX-mk5otbVc 
+This video interview with Ginsberg and Obrist includes much more details about what happened after the gardens were planted in London: <a href="https://www.youtube.com/watch?v=DX-mk5otbVc">https://www.youtube.com/watch?v=DX-mk5otbVc</a>  
 <br><br>
 Read more on the project website:
 <br><br>
@@ -239,7 +239,7 @@ Such designs could inspire rethinking what ecological data involves and how it r
 <br><br>
 Read more about inter-weaving knowledge practices in this open access design research paper, written by Susana Patricia Chicunque Agreda, Eliana Sánchez-Aldana, Alexandra Cuarán Jamioy, and Andrea Botero:
 <br><br>
-SP Chicunque Agreda, E Sánchez-Aldana, A Cuarán Jamioy, A Botero. (2024). Inter-weavings of Practice and Research in the Tšombiach (Woven Sashes) of the Kamëntŝa Biya People, Research in Arts and Education, 1, 178-191. https://doi.org/10.54916/rae.142607
+SP Chicunque Agreda, E Sánchez-Aldana, A Cuarán Jamioy, A Botero. (2024). Inter-weavings of Practice and Research in the Tšombiach (Woven Sashes) of the Kamëntŝa Biya People, Research in Arts and Education, 1, 178-191. <a href="https://doi.org/10.54916/rae.142607">https://doi.org/10.54916/rae.142607</a>
 <br><br>
 Images cited from the paper<br></p>
     <a href="https://doi.org/10.54916/rae.142607" class="catalogue-link" target="_blank">Visit Project</a>
@@ -267,7 +267,7 @@ As a wordplay on Digital Twins, the Digital Kins installation made such complex 
 <br><br>
 An open access paper on this work is published in CSCW and translates findings into recommendations for designing biodiversity data technologies. 
 <br><br>
-Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work, 34, 835-869. https://doi.org/10.1007/s10606-025-09524-2 
+Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work, 34, 835-869. <a href="https://doi.org/10.1007/s10606-025-09524-2">https://doi.org/10.1007/s10606-025-09524-2</a>
 <br><br>
 Many of these insights subsequently inspired the Design Brief.
 <br><br>
@@ -295,7 +295,7 @@ Images: M. Westerlaken<br></p>
 <br><br>
 While continuing to protect the livelihoods of local communities, how could this project be developed further to inspire economic principles that are more responsive to ecosystems? For example, how can the non-monetary and non-quantifiable aspects of this project become part of a business case that is not expressed through money but through ecosystem values such as cooperation, synergy, and mutual thriving? Thinking through such questions creatively with this Design Brief might inspire new collaborative proposals. 
 <br><br>
-Read more about this project: https://www.savimbo.com/ 
+Read more about this project: <a href="https://www.savimbo.com/">https://www.savimbo.com/</a>
 <br><br>
 Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
     <br>
