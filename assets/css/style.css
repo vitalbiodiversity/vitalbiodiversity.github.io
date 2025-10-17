@@ -170,12 +170,13 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
 
 
 /* ---------- Page background ---------- */
-.page-outer {
+.main-content {
   background-image: url('/assets/css/background-tall-right.png'); /* tall image with content on the right */
   background-repeat: no-repeat;
   background-attachment: fixed;       /* stays in place while scrolling on desktop */
   background-size: auto 100%;         /* height fills viewport, width auto */
   background-position: right top;     /* align content to the right, top-aligned */
+  position: relative;              /* ensures text is above background */
   background-color: #ffffff;          /* fallback */
 }
 
