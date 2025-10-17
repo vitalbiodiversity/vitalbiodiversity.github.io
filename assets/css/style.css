@@ -175,7 +175,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
   background-repeat: no-repeat;
   background-attachment: fixed;       /* stays in place while scrolling on desktop */
   background-size: auto 100%;         /* height fills viewport, width auto */
-  background-position: right top;     /* align content to the right, top-aligned */
+  background-position: calc(100% - 200px) top; /* shift 200px left from right */
   position: relative;              /* ensures text is above background */
   background-color: #ffffff;          /* fallback */
 }
@@ -186,7 +186,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
     background-image: url('/assets/css/background-tall-right.png'); /* smaller version */
     background-attachment: scroll;  /* allows natural scrolling on mobile */
     background-size: cover;          /* scales nicely for different screen widths */
-    background-position: right top;  /* keep content on the right */
+    background-position: center top;  /* center on mobile */
   }
 }
 
