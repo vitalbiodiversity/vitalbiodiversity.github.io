@@ -5,7 +5,7 @@ layout: default
 
 # catalogue
 
-<p>This page cites a curated collection of vital biodiversity example projects and useful datasets. A short description highlights how it meets the requirements of the design brief. Click on a project to learn more about the creators' work.</p>
+<p>This page cites a curated collection of vital biodiversity example projects. A short description highlights how it aligns with the requirements of the design brief. Click on a project to learn more about the creators' work.</p>
 
 <!-- GRID ONLY CONTAINS CARDS -->
 <div class="catalogue-grid">
