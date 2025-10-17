@@ -179,11 +179,10 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
 
 /* ---------- Mobile optimization ---------- */
 @media (max-width: 768px) {
-  .page-outer {
-    background-image: url('/assets/css/background-tall-right.png'); /* smaller version */
-    background-attachment: scroll;  /* allows natural scrolling on mobile */
-    background-size: cover;          /* scales nicely for different screen widths */
-    background-position: center top;  /* center on mobile */
+  .main-content {
+    background-attachment: scroll;   /* allows natural scrolling on mobile */
+    background-size: contain;        /* scales without cropping important parts */
+    background-position: right top;  /* stays visually to the right of content */
   }
 }
 
