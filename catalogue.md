@@ -18,16 +18,16 @@ layout: default
    </div>
   <div class="catalogue-images">
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project1-1.jpg" alt="Project 1 image 1">
+      <img src="/assets/css/catalogue/project1-1.jpg" alt="Project 1 image 1">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project1-2.jpg" alt="Project 1 image 2">
+      <img src="/assets/css/catalogue/project1-2.jpg" alt="Project 1 image 2">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project1-3.jpg" alt="Project 1 image 3">
+      <img src="/assets/css/catalogue/project1-3.jpg" alt="Project 1 image 3">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project1-4.jpg" alt="Project 1 image 4">
+      <img src="/assets/css/catalogue/project1-4.jpg" alt="Project 1 image 4">
     </div>
   </div>
 </div>
@@ -40,16 +40,16 @@ layout: default
    </div>
   <div class="catalogue-images">
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project2-1.jpg" alt="Project 2 image 1">
+      <img src="/assets/css/catalogue/project2-1.jpg" alt="Project 2 image 1">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project2-2.jpg" alt="Project 2 image 2">
+      <img src="/assets/css/catalogue/project2-2.jpg" alt="Project 2 image 2">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project2-3.jpg" alt="Project 2 image 3">
+      <img src="/assets/css/catalogue/project2-3.jpg" alt="Project 2 image 3">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project2-4.jpg" alt="Project 2 image 4">
+      <img src="/assets/css/catalogue/project2-4.jpg" alt="Project 2 image 4">
     </div>
   </div>
 </div>
@@ -62,10 +62,10 @@ layout: default
    </div>
   <div class="catalogue-images">
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project3-1.jpg" alt="Project 3 image 1">
+      <img src="/assets/css/catalogue/project3-1.jpg" alt="Project 3 image 1">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/catalogue/project3-2.jpg" alt="Project 3 image 2">
+      <img src="/assets/css/catalogue/project3-2.jpg" alt="Project 3 image 2">
     </div>
   </div>
 </div>
@@ -78,10 +78,10 @@ layout: default
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project4-1.jpg" alt="Project 4 image 1">
+        <img src="/assets/css/catalogue/project4-1.jpg" alt="Project 4 image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project4-2.jpg" alt="Project 4 image 2">
+        <img src="/assets/css/catalogue/project4-2.jpg" alt="Project 4 image 2">
       </div>
     </div>
   </div>
@@ -95,10 +95,10 @@ layout: default
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project5-1.jpg" alt="Project 5 image 1">
+        <img src="/assets/css/catalogue/project5-1.jpg" alt="Project 5 image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project5-2.jpg" alt="Project 5 image 2">
+        <img src="/assets/css/catalogue/project5-2.jpg" alt="Project 5 image 2">
       </div>
     </div>
   </div>
@@ -111,10 +111,10 @@ layout: default
     </div>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project6-1.jpg" alt="Project 6 image 1">
+        <img src="/assets/css/catalogue/project6-1.jpg" alt="Project 6 image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project6-2.jpg" alt="Project 6 image 2">
+        <img src="/assets/css/catalogue/project6-2.jpg" alt="Project 6 image 2">
       </div>
     </div>
   </div>
@@ -131,28 +131,28 @@ layout: default
       <span class="catalogue-modal-close" onclick="closeModal(1)">&times;</span>
     </div>
     <p>A forest simulation proposal that lets users explore datasets where urban forest entities can hold conflicting perspectives, making trade‑offs, relations, and complexity visible in the data. 
-
+<br>
 This agent-based model approach creates a system where data conflicts are deliberately emphasized, not avoided. However, rather than focusing on individual metrics as is often the case, this proposal foregrounds relational understandings of forest ecosystems
-
+<br>
 This idea investigates the performative dimensions of interfaces and can ultimately inform decisions on how to negotiate different trade-offs in urban planning.
-
+<br>
 Read more about this project in this open access paper:
 Giaccardi, E., Nam, S., & Nicenboim, I. (2025). Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 135–147. https://doi.org/10.1145/3715336.3735404
-
-Images cited from the paper</p>
+<br>
+Images cited from the paper<br></p>
     <a href="https://doi.org/10.1145/3715336.3735404" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-1.jpg" alt="Diffractive Interfaces image 1">
+        <img src="/assets/css/catalogue/project1-1.jpg" alt="Diffractive Interfaces image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-2.jpg" alt="Diffractive Interfaces image 2">
+        <img src="/assets/css/catalogue/project1-2.jpg" alt="Diffractive Interfaces image 2">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-3.jpg" alt="Diffractive Interfaces image 3">
+        <img src="/assets/css/catalogue/project1-3.jpg" alt="Diffractive Interfaces image 3">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project1-4.jpg" alt="Diffractive Interfaces image 4">
+        <img src="/assets/css/catalogue/project1-4.jpg" alt="Diffractive Interfaces image 4">
       </div>
     </div>
   </div>
@@ -166,27 +166,27 @@ Images cited from the paper</p>
       <span class="catalogue-modal-close" onclick="closeModal(2)">&times;</span>
     </div>
     <p>Through a one-month iterative design process, I used the medium of a printed trifold brochure to demonstrate how vital design principles can become included. 
-
+<br>
 After experimenting with different plant illustrations for the front cover, the final design brings nature’s vitality and imperfection into the foreground through a manually inked leaf stamp of a white mulberry tree leaf found in the Massachusetts area where I live. 
-
+<br>
 Moving between many different icon-designs to convey the key stakeholders involved in this research, I landed on the theme of stones to convey the slow material processes through which ecosystem entities are shaped by their surroundings. Different rock types here signal the weight that key stakeholders must carry in design, and their ability to shape and be shaped within ecosystems. The digital scan of the hand drawn illustrations emphasizes the manual brush strokes that reveals their creation process. 
-
+<br>
 To further highlight biodiversity’s unpredictable responses, and to connect to physical paper as a natural, fibrous material, I used a custom paper stamp to interrupt the brochure’s standard reading flow. Here, a group of aphids, only known as data-deficient entities in digital spaces, shape reading practices to challenge existing approaches to information sharing. 
-
-Images: M Westerlaken</p>
+<br>
+Images: M Westerlaken<br></p>
     <a href="https://vitalbiodiversity.github.io/" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-1.jpg" alt="Vital Biodiversity Brochure image 1">
+        <img src="/assets/css/catalogue/project2-1.jpg" alt="Vital Biodiversity Brochure image 1">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-2.jpg" alt="Vital Biodiversity Brochure image 2">
+        <img src="/assets/css/catalogue/project2-2.jpg" alt="Vital Biodiversity Brochure image 2">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-3.jpg" alt="Vital Biodiversity Brochure image 3">
+        <img src="/assets/css/catalogue/project2-3.jpg" alt="Vital Biodiversity Brochure image 3">
       </div>
       <div class="catalogue-image-wrapper">
-        <img src="/assets/catalogue/project2-4.jpg" alt="Vital Biodiversity Brochure image 4">
+        <img src="/assets/css/catalogue/project2-4.jpg" alt="Vital Biodiversity Brochure image 4">
       </div>
     </div>
   </div>
@@ -200,21 +200,21 @@ Images: M Westerlaken</p>
       <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
     </div>
     <p>This tool is informed by pollinator data that relates different pollinator and plant species together to plot a garden patch that can support the highest pollinator diversity for a specific location. This is not just a digital tool, because these gardens are then also planted by people. In this set up the entire local ecosystem, including the pollinators, can respond back to the gardens, shaping and changing the ways the ecosystem unfolds.
-
+<br>
 This tool informs very practical decision-making on what species to plant, based on pollinator data. But it then also invites response from the ecosystem in real gardens across the world. 
-
+<br>
 This video interview with Ginsberg and Obrist includes much more details about what happened after the gardens were planted in London: https://www.youtube.com/watch?v=DX-mk5otbVc 
-
+<br>
 Read more on the project website:
-
-Screenshots cited from the project website (A.D. Ginsberg)</p>
+<br>
+Screenshots cited from the project website (A.D. Ginsberg)<br></p>
     <a href="https://pollinator.art/" class="catalogue-link" target="_blank">Visit Project</a>
 <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project3-1.jpg" alt="Pollinator Pathmaker image 1">
+    <img src="/assets/css/catalogue/project3-1.jpg" alt="Pollinator Pathmaker image 1">
   </div>
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project3-2.jpg" alt="Pollinator Pathmaker image 2">
+    <img src="/assets/css/catalogue/project3-2.jpg" alt="Pollinator Pathmaker image 2">
   </div>
 </div>
 </div>
@@ -228,21 +228,21 @@ Screenshots cited from the project website (A.D. Ginsberg)</p>
       <span class="catalogue-modal-close" onclick="closeModal(4)">&times;</span>
     </div>
     <p>The Tšombiach (or Chumbe) weaving of the Kamëntŝa Indigenous people in Colombia depict belt patterns that tell biological cycles, for instance about harvests, sowing, and lunar phases, weaving ecological knowledge into tangible artifacts. What if such ways of narrating data can become the inspiration for new digital systems?
-
+<br>
 Such designs could inspire rethinking what ecological data involves and how it relates to peoples’ lived experiences. Biodiversity data thereby moves from a focus on only identifying species towards metaphors depicting deeply felt human relations with the land and its multispecies inhabitants.
-
+<br>
 Read more about inter-weaving knowledge practices in this open access design research paper, written by Susana Patricia Chicunque Agreda, Eliana Sánchez-Aldana, Alexandra Cuarán Jamioy, and Andrea Botero:
-
+<br>
 SP Chicunque Agreda, E Sánchez-Aldana, A Cuarán Jamioy, A Botero. (2024). Inter-weavings of Practice and Research in the Tšombiach (Woven Sashes) of the Kamëntŝa Biya People, Research in Arts and Education, 1, 178-191. https://doi.org/10.54916/rae.142607
-
-Images cited from the paper</p>
+<br>
+Images cited from the paper<br></p>
     <a href="https://doi.org/10.54916/rae.142607" class="catalogue-link" target="_blank">Visit Project</a>
 <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project4-1.jpg" alt="Chumbe Weaving image 1">
+    <img src="/assets/css/catalogue/project4-1.jpg" alt="Chumbe Weaving image 1">
   </div>
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project4-2.jpg" alt="Chumbe Weaving image 2">
+    <img src="/assets/css/catalogue/project4-2.jpg" alt="Chumbe Weaving image 2">
   </div>
 </div>
 </div>
@@ -256,23 +256,23 @@ Images cited from the paper</p>
       <span class="catalogue-modal-close" onclick="closeModal(5)">&times;</span>
     </div>
     <p>As part of a six-month fieldwork period about digital biodiversity data at Ecodorp Boekel, NL, this data portal was developed to bring digital data into the physical space that is the subject of monitoring for restoration. The two-hectare sight is located in a semi-urban area where biodiversity restoration involves complex socio-political and ecological dynamics. The eco-minded community grapples with high-intensity neighborhood farms, nitrogen emissions, pollution, and adjacent forest land. 
-
+<br>
 As a wordplay on Digital Twins, the Digital Kins installation made such complex dynamics visible and includes 101 QR-coded data points, each hanging from 4 meter-long ropes, connected to the conical ceiling. Through different workshops, the interactive design encouraged participants to explore, categorize, discuss, expand, and question the meaning and usefulness of data practices.
-
+<br>
 An open access paper on this work is published in CSCW and translates findings into recommendations for designing biodiversity data technologies. 
-
+<br>
 Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work, 34, 835-869. https://doi.org/10.1007/s10606-025-09524-2 
-
+<br>
 Many of these insights subsequently inspired the Design Brief.
-
-Images: M. Westerlaken</p>
+<br>
+Images: M. Westerlaken<br></p>
     <a href="https://doi.org/10.1007/s10606-025-09524-2 " class="catalogue-link" target="_blank">Visit Project</a>
   <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project5-1.jpg" alt="Digital Kins image 1">
+    <img src="/assets/css/catalogue/project5-1.jpg" alt="Digital Kins image 1">
   </div>
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project5-2.jpg" alt="Digital Kins image 2">
+    <img src="/assets/css/catalogue/project5-2.jpg" alt="Digital Kins image 2">
   </div>
 </div>
 </div>
@@ -286,19 +286,21 @@ Images: M. Westerlaken</p>
       <span class="catalogue-modal-close" onclick="closeModal(6)">&times;</span>
     </div>
     <p>The biodiversity credit market is rapidly expanding with redefined units of nature, certification bodies, credit brokers, and technology-centered proposals. Savimbo aims to reshape extractivist conservation economies by inviting small farmers and Indigenous groups who guard primary forests to participate in this market. Monitoring technologies such as camera trapping are then used to support credit verification through indicator species.
-
+<br>
 While continuing to protect the livelihoods of local communities, how could this project be developed further to inspire economic principles that are more responsive to ecosystems? For example, how can the non-monetary and non-quantifiable aspects of this project become part of a business case that is not expressed through money but through ecosystem values such as cooperation, synergy, and mutual thriving? Thinking through such questions creatively with this Design Brief might inspire new collaborative proposals. 
-
+<br>
 Read more about this project: https://www.savimbo.com/ 
-
-Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)</p>
+<br>
+Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
+    <br>
+  </p>
     <a href="https://www.savimbo.com/" class="catalogue-link" target="_blank">Visit Project</a>
     <div class="catalogue-images">
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project6-1.jpg" alt="Savimbo image 1">
+    <img src="/assets/css/catalogue/project6-1.jpg" alt="Savimbo image 1">
   </div>
   <div class="catalogue-image-wrapper">
-    <img src="/assets/catalogue/project6-2.jpg" alt="Savimbo image 2">
+    <img src="/assets/css/catalogue/project6-2.jpg" alt="Savimbo image 2">
   </div>
 </div>
 </div>
