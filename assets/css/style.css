@@ -171,7 +171,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
 
 /* ---------- Page background ---------- */
 .page-outer {
-  background-image: url('/assets/background-tall-right.png'); /* tall image with content on the right */
+  background-image: url('/assets/css/background-tall-right.png'); /* tall image with content on the right */
   background-repeat: no-repeat;
   background-attachment: fixed;       /* stays in place while scrolling on desktop */
   background-size: auto 100%;         /* height fills viewport, width auto */
@@ -182,7 +182,7 @@ code, pre { font-family: 'JetBrains Mono', monospace; }
 /* ---------- Mobile optimization ---------- */
 @media (max-width: 768px) {
   .page-outer {
-    background-image: url('/assets/background-tall-right-mobile.png'); /* smaller version */
+    background-image: url('/assets/css/background-tall-right.png'); /* smaller version */
     background-attachment: scroll;  /* allows natural scrolling on mobile */
     background-size: cover;          /* scales nicely for different screen widths */
     background-position: right top;  /* keep content on the right */
