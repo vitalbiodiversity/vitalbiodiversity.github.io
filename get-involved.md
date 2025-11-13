@@ -33,11 +33,11 @@ All details on the research methods, the data, and the rationale that inspired t
 
 
 
-### This work will also be presented at the following conferences:
+### Prior research connected to this project:
 
-- Westerlaken, M. (2025). Vital Design Principles for 2050: Towards Less Tech-Driven and More Ecosystem-Driven Data Systems. Living Data 2025 (October 21-24 2025, Bogotá, Colombia).
+- Westerlaken, M. (2024). Digital Twins and the Digital Logics of Biodiversity. Social Studies of Science, 54(4), 574-597.  <a href="https://doi.org/10.1177/03063127241236809">https://doi.org/10.1177/03063127241236809</a>
 
-- Westerlaken, M. (2025). The Vital Aesthetics of Biodiversity Data: Reconnecting Ecological Relations within Digital Systems, Information+ (November 14-16, Boston, MA, USA).
+- Westerlaken, M. (2025). Designing Biodiversity Systems via Digital Kinships: Insights from Community Data Processes and Creative Practice, Computer Supported Cooperative Work (CSCW), Springer Nature, 34, 835–869. <a href="https://doi.org/10.1007/s10606-025-09524-2">https://doi.org/10.1007/s10606-025-09524-2</a> 
 
 <br>
 
