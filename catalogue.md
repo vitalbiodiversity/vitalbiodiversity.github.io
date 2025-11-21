@@ -343,22 +343,14 @@ text
    <!-- Embedded YouTube Video -->
     <div class="catalogue-video">
       <iframe
-        src="https://youtu.be/NktGhhdiRQk?si=R3VnvFCXe9xGgs4W"
+        src="https://www.youtube.com/embed/NktGhhdiRQk?si=R3VnvFCXe9xGgs4W"
         title="Zylinska2025"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
-      </iframe>
+       </iframe>
     </div>
-    <a href="https://pollinator.art/" class="catalogue-link" target="_blank">Visit Project</a>
-    <div class="catalogue-images">
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/css/catalogue/project3-1.jpg" alt="Pollinator Pathmaker image 1">
-      </div>
-      <div class="catalogue-image-wrapper">
-        <img src="/assets/css/catalogue/project3-2.jpg" alt="Pollinator Pathmaker image 2">
-      </div>
-    </div>
+    <a href="http://www.joannazylinska.net/" class="catalogue-link" target="_blank">Visit Project</a>
   </div>
 </div>
 
