@@ -129,15 +129,15 @@ layout: default
   <div class="catalogue-card" onclick="openModal(7)">
     <div class="catalogue-content">
       <h3>The Aesthetics and Ethics of Digital Ecologies</h3>
-      <p>text 
-       <br><br>credits, year.</p>
+      <p>A recording of the Keynote lecture of Cohabitability: Ecologies and Technologies of Living on Earth conference (8.,9.,10. October 2025 in Prague, Czech Academy of Sciences) 
+       <br><br>Joanna Zylinska, 2025</p>
    </div>
   <div class="catalogue-images">
     <div class="catalogue-image-wrapper">
-      <img src="/assets/css/catalogue/project3-1.jpg" alt="Project 3 image 1">
+      <img src="/assets/css/catalogue/project7-1.jpg" alt="Project 7 image 1">
     </div>
     <div class="catalogue-image-wrapper">
-      <img src="/assets/css/catalogue/project3-2.jpg" alt="Project 3 image 2">
+      <img src="/assets/css/catalogue/project7-2.jpg" alt="Project 7 image 2">
     </div>
   </div>
 </div>
@@ -336,9 +336,14 @@ Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
       <h2>The Aesthetics and Ethics of Digital Ecologies</h2>
       <span class="catalogue-modal-close" onclick="closeModal(7)">&times;</span>
     </div>
-    <p>Text
+    <p>"The talk traces how artificial intelligence operates as a “relational technology of life". The talk proposes the concept of Bio-AI, with Artificial Intelligence understood not just as an external computational network but as a relational technology of life that modulates its biological and social aspects. The talk closes with a modest proposal for an ethics of digital ecologies: an idea that pursues more equitable forms of coexistence for various beings across different media-ecological niches." 
 <br><br>
-text
+This exploration of aesthetics in digital ecologies fits well with the aesthetics outline of the Design Brief.
+<br><br>
+"Joanna Zylinska is a writer, artist, curator and Professor of Media Philosophy + Critical Digital Practice at King’s College London. She is an author of a number of books, including The Perception Machine (2023), AI Art: Machine Visions and Warped Dreams (2020) and The End of Man: A Feminist Counterapocalypse (2018). An advocate of “radical open-access,” she is a Co-Director of Open Humanities Press. Her art practice involves experimenting with different kinds of image based media. Zylinska is currently researching perception and cognition as boundary zones between human and machine intelligence, while trying to map out scenarios for alternative futures." 
+<br><br>
+The lecture also mentions work of Refik Anadol, Anna Riddler, Matt Collishaw, and Teresa Castro that are interesting sources in the search for the Vital Aesthetics of biodiversity data.
+<br>
 </p>
    <!-- Embedded YouTube Video -->
     <div class="catalogue-video">
