@@ -334,7 +334,7 @@ Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
   <div class="catalogue-modal-content">
     <div class="catalogue-modal-header">
       <h2>The Aesthetics and Ethics of Digital Ecologies</h2>
-      <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
+      <span class="catalogue-modal-close" onclick="closeModal(7)">&times;</span>
     </div>
     <p>Text
 <br><br>
