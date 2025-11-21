@@ -181,6 +181,20 @@ a {
   color: #FFFFFF;
 }
 
+/* ---------- Youtube Embedded ---------- */
+.catalogue-video {
+  width: 100%;
+  margin: 1rem 0;
+  aspect-ratio: 16 / 9;
+}
+
+.catalogue-video iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+
 /* ---------- Responsive ---------- */
 @media (max-width: 480px) {
   .catalogue-images,
