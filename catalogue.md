@@ -342,7 +342,7 @@ This exploration of aesthetics in digital ecologies fits well with the aesthetic
 <br><br>
 "Joanna Zylinska is a writer, artist, curator and Professor of Media Philosophy + Critical Digital Practice at King’s College London. She is an author of a number of books, including The Perception Machine (2023), AI Art: Machine Visions and Warped Dreams (2020) and The End of Man: A Feminist Counterapocalypse (2018). An advocate of “radical open-access,” she is a Co-Director of Open Humanities Press. Her art practice involves experimenting with different kinds of image based media. Zylinska is currently researching perception and cognition as boundary zones between human and machine intelligence, while trying to map out scenarios for alternative futures." 
 <br><br>
-The lecture also mentions work of Refik Anadol, Anna Riddler, Matt Collishaw, and Teresa Castro that are interesting sources in the search for the Vital Aesthetics of biodiversity data.
+The lecture also mentions work of Refik Anadol, Anna Ridler, Mat Collishaw, and Teresa Castro that are interesting sources in the search for the Vital Aesthetics of biodiversity data.
 <br>
 </p>
    <!-- Embedded YouTube Video -->
