@@ -125,6 +125,23 @@ layout: default
     </div>
   </div> 
 
+ <!-- Project Card 7 -->
+  <div class="catalogue-card" onclick="openModal(3)">
+    <div class="catalogue-content">
+      <h3>The Aesthetics and Ethics of Digital Ecologies</h3>
+      <p>text 
+       <br><br>credits, year.</p>
+   </div>
+  <div class="catalogue-images">
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/css/catalogue/project3-1.jpg" alt="Project 3 image 1">
+    </div>
+    <div class="catalogue-image-wrapper">
+      <img src="/assets/css/catalogue/project3-2.jpg" alt="Project 3 image 2">
+    </div>
+  </div>
+</div>
+
 </div> <!-- END OF GRID -->
 
 <!-- MODALS GO BELOW GRID (outside) -->
@@ -311,6 +328,40 @@ Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
 </div>
 </div>
 </div> 
+
+<!-- Modal 7 -->
+<div id="modal-7" class="catalogue-modal">
+  <div class="catalogue-modal-content">
+    <div class="catalogue-modal-header">
+      <h2>The Aesthetics and Ethics of Digital Ecologies</h2>
+      <span class="catalogue-modal-close" onclick="closeModal(3)">&times;</span>
+    </div>
+    <p>Text
+<br><br>
+text
+</p>
+   <!-- Embedded YouTube Video -->
+    <div class="catalogue-video">
+      <iframe
+        src="https://youtu.be/NktGhhdiRQk?si=R3VnvFCXe9xGgs4W"
+        title="Zylinska2025"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <a href="https://pollinator.art/" class="catalogue-link" target="_blank">Visit Project</a>
+    <div class="catalogue-images">
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/css/catalogue/project3-1.jpg" alt="Pollinator Pathmaker image 1">
+      </div>
+      <div class="catalogue-image-wrapper">
+        <img src="/assets/css/catalogue/project3-2.jpg" alt="Pollinator Pathmaker image 2">
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <br>
 <p style="text-align: justify;">
