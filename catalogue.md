@@ -126,7 +126,7 @@ layout: default
   </div> 
 
  <!-- Project Card 7 -->
-  <div class="catalogue-card" onclick="openModal(3)">
+  <div class="catalogue-card" onclick="openModal(7)">
     <div class="catalogue-content">
       <h3>The Aesthetics and Ethics of Digital Ecologies</h3>
       <p>text 
