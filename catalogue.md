@@ -108,7 +108,7 @@ layout: default
     </div>
   </div>
 
-  <!-- Project Card 6 
+  <!-- Project Card 6 -->
   <div class="catalogue-card" onclick="openModal(6)">
     <div class="catalogue-content">
       <h3>Savimbo</h3>
@@ -123,7 +123,7 @@ layout: default
         <img src="/assets/css/catalogue/project6-2.jpg" alt="Project 6 image 2">
       </div>
     </div>
-  </div> -->
+  </div> 
 
 </div> <!-- END OF GRID -->
 
@@ -284,7 +284,7 @@ Images: M. Westerlaken<br></p>
 </div>
 </div> 
 
-<!-- Modal 6 
+<!-- Modal 6 -->
 <div id="modal-6" class="catalogue-modal">
   <div class="catalogue-modal-content">
     <div class="catalogue-modal-header">
@@ -310,7 +310,7 @@ Screenshots cited from the project website (Savimbo, Image: Douglas Gayeton)
   </div>
 </div>
 </div>
-</div> -->
+</div> 
 
 <br>
 <p style="text-align: justify;">
