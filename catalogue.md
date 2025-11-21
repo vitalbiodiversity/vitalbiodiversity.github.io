@@ -129,7 +129,7 @@ layout: default
   <div class="catalogue-card" onclick="openModal(7)">
     <div class="catalogue-content">
       <h3>The Aesthetics and Ethics of Digital Ecologies</h3>
-      <p>A recording of the Keynote lecture of Cohabitability: Ecologies and Technologies of Living on Earth conference (8.,9.,10. October 2025 in Prague, Czech Academy of Sciences) 
+      <p>A recording of the Keynote lecture of Cohabitability: Ecologies and Technologies of Living on Earth conference (8-10 Oct. 2025 in Prague, Czech Academy of Sciences) 
        <br><br>Joanna Zylinska, 2025</p>
    </div>
   <div class="catalogue-images">
