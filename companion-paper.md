@@ -7,7 +7,6 @@ layout: default
 
 This white paper is published by the MIT Climate and Sustainability Consortium at: 
 <a href="https://dspace.mit.edu/handle/1721.1/164792">https://dspace.mit.edu/handle/1721.1/164792</a>
-<a href="https://www.linkedin.com/in/michellewesterlaken/">LinkedIn</a>
 
 
 Download the companion paper:  
