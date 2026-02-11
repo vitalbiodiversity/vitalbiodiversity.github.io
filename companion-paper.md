@@ -5,6 +5,7 @@ layout: default
 
 # companion paper
 
+This white paper is published by the MIT Climate and Sustainability Consortium at: https://dspace.mit.edu/handle/1721.1/164792
 Download the companion paper:  
 [PDF Version](Westerlaken_etal_2026_VitalBiodiversitySystems_ACompanionPaper.pdf){:target="_blank"}
 
